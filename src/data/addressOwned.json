@@ -1,0 +1,930 @@
+[
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Shop No. 9, LGF -8, Vasant Square Mall, Pocket 7, Sector B, Vasant Kunj, New Delhi, Delhi 110070",
+    "City": "Delhi",
+    "Area": "Vasant Kunj",
+    "Ratings": 4.9,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Sy No. 64, Kirthika Layout, Freedom Cross, 2nd floor, Plot No 1, Madhapur, Hyderabad, Telangana 500081",
+    "City": "Hyderabad",
+    "Area": "Madhapur",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, MK Plaza, A 103, Ghodbunder Rd, near Hypercity, Sai Nagar, Kasarvadavali, Thane West, Thane, Maharashtra 400615",
+    "City": "Navi Mumbai",
+    "Area": "Kasarvadavali",
+    "Ratings": 4.7,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st floor, KMJ IDENTITY, No. 515, 20th Main Rd, opp. Lakshmi Devi Park, KHB Colony, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "City": "Bangalore",
+    "Area": "Koramangala",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Shop No 2, 1st Floor, LE Desire Complex, Circular Rd, opposite Hari Om Tower, Upper Burdwan Compound, P&T Colony, Nagra Toli, Ranchi, Jharkhand 834001",
+    "City": "Ranchi",
+    "Area": "Circular Road",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, Maruthi Arcade, No 13, Service Rd, opposite Maurti Mandir, Hosahalli Extension, Vijayanagar, Bengaluru, Karnataka 560040",
+    "City": "Bangalore",
+    "Area": "Vijay Nagar",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Ground Floor, The Jewel Of Pimpri, 42 to 44, B Wing, opposite Mahanagar Palika Pimpri Office, Pune, Maharashtra 411018",
+    "City": "Pune",
+    "Area": "Jewel of Pimpri",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "107, Iscon Center Shivranjani Cross Road, Satellite Rd, Ahmedabad, Gujarat 380015",
+    "City": "Ahmedabad",
+    "Area": "Satellite Road",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Floor, Ratan Floor, No. 113/120, near Moti Jheel Metro Station, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "City": "Kanpur",
+    "Area": "Civil Lines",
+    "Ratings": 4.3,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, No K 834, above Pizza Hut, Ashiyana, Lucknow, Uttar Pradesh 226012",
+    "City": "Lucknow",
+    "Area": "Ashiyana",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Office No 3 & 4, 1st Flr, Agnelo House Swami Vivekananda Road, Khar Pali Rd, opposite Rajasthan Hotel, Mumbai, Maharashtra 400052",
+    "City": "Mumbai",
+    "Area": "Khar Pali Road",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Ground Floor, S K Towers, TC No 20, Karamana Main Road, near Indian Oil Petrol Pump, Prem Nagar, Karamana, Thiruvananthapuram, Kerala 695002",
+    "City": "Trivandrum",
+    "Area": "Karamana Road",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Building No.18, Shreeji Tower, Metro station, Vikas Marg, near Nirman Vihar, Shankar Vihar, Preet Vihar, Delhi, 110092",
+    "City": "Delhi",
+    "Area": "Preet Vihar",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Shop No. 1, first floor, Kunjpura Rd, above Vero Moda Showroom, Old Char Chaman, Dyal Singh Colony, Karnal, Haryana 132001",
+    "City": "Gurgaon",
+    "Area": "Sector 14",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, PL Palace, No 12/2/4, Mahatma Gandhi Rd, near Income Tax Office, Sanjay Palace, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002",
+    "City": "Agra",
+    "Area": "Sanjay Place",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Floor, CIT Type CS4, Plot No 9B, Scheme 8M, opposite Lions Club Eye Hospital, Surir Bagan, Ultadanga, Kolkata, West Bengal 700067",
+    "City": "Kolkata",
+    "Area": "Ultadanga",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Salt Lake Electronics Complex, EN7, 1st Floor, Biswanath Building, Salt Lake Bypass, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+    "City": "Kolkata",
+    "Area": "Salt Lake",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Ground Floor, Building, No 3, SNo 15/16, Swami Vivekananda Rd, near Domino's Pizza, Meghdoot, Sumer Nagar, Borivali West, Mumbai, Maharashtra 400092",
+    "City": "Mumbai",
+    "Area": "Borivali West",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Unit No S8, 2nd Floor, near Fun Cinema DD Mall, Phool Bagh, Shinde Ki Chhawani, Gwalior, Madhya Pradesh 474009",
+    "City": "Gwalior",
+    "Area": "Shinde Ki Chhawani",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, BDA 419, Katha No 346/419, above Levis Showroom, Agara Village, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+    "City": "Bangalore",
+    "Area": "Hosur Sarjappa Rd",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Floor, Service Road, No 35, 5th Cross Rd, above Bangalore E & D Research Centre, Malleshwaram, Bengaluru, Karnataka 560003",
+    "City": "Bangalore",
+    "Area": "Malleshwaram",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "3, Gr Flr, Gayathri Arcade, No 10/2/274, Sardar Patel Rd, opposite St Ann's High School, West Marredpally, Hyderabad, Telangana 500026",
+    "City": "Hyderabad",
+    "Area": "West Marredpally",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Morning Site, Sarab Complex, A-60, Main Market, below Lal Path Lab, Housing Board Colony, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "City": "Shimla",
+    "Area": "Sanjauli",
+    "Ratings": 4.7,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Shop No 33,34,37,38, 3rd Floor, Embark Plaza Plot No CS-03, GH-01, Sector 04, Near to Gaur City-01 Greater Noida West, Extension, Noida, Uttar Pradesh 201009",
+    "City": "Delhi",
+    "Area": "Gaur City-01 Greater Noida",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Shop no. 201, 202 and 203, Mira Bhayandar Rd, Sonam Sagar, Indira Nagar, Mira Road East, Mumbai, Mira Bhayandar, Maharashtra 401105",
+    "City": "Thane",
+    "Area": "Mira Road (East)",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "No 483, 1st Floor, Binna Mangala 1st Stage, Chinmaya Mission Hospital Rd, opposite KFC, Indiranagar, Bengaluru, Karnataka 560038",
+    "City": "Bangalore",
+    "Area": "Indira Nagar",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, MVM Plaza, opposite RR Gold Palace, Old Town, Yelahanka, Bengaluru, Karnataka 560064",
+    "City": "Bangalore",
+    "Area": "Yelahanka Old Town",
+    "Ratings": 4.3,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Flr, Sales, Ratna Business Square, No 133, opposite Kunal Restaurant, Ashram Road, Ahmedabad, Gujarat 380009",
+    "City": "Ahmedabad",
+    "Area": "Ashram Road",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "No 26/15, Sai Ram Complex 100ft Road, N Extension Main Rd, next to Thalappakatti Restaurant, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042",
+    "City": "Chennai",
+    "Area": "Velachery",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Pemises, Co op Soc, PN 8, Shanti Centre, Plot No 8, near Navratna Hotel, Sector 17, Vashi, Navi Mumbai, Maharashtra 400703",
+    "City": "Mumbai",
+    "Area": "Vashi",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, Lunkad Skymax Mall, Unit 101, Datta Mandir Chowk, Konark Nagar, Clover Park, Viman Nagar, Pune,",
+    "City": "Pune",
+    "Area": "Viman Nagar",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, SCO 324, above Reliance Digital, Sector 9, Panchkula, Haryana 134109",
+    "City": "Panchkula",
+    "Area": "Panchkula",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "3, 1st Floor, Besides Reliance Smart, Tain Square, Office No, Fatima Nagar, Wanwadi, Pune, Maharashtra 411040",
+    "City": "Pune",
+    "Area": "Fatima Nagar",
+    "Ratings": 4.3,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, DT City Center Mall, SN 123, Mehrauli-Gurgaon Rd, near Metro Station, Sector 28, Maruti Housing Colony, Gurugram, Sarhol, Haryana 122001",
+    "City": "Gurgaon",
+    "Area": "MG Road",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Floor, Shreeji Arcade A1, Office No, 11 to 14, Almeda Rd, Panch Pakhdi, Thane West, Thane, Maharashtra 400601",
+    "City": "Mumbai",
+    "Area": "Panchpakhadi",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Jagannath's Commerce Plaza CHS Char Rasta, SN 126, Manpada Rd, next to Godrej Showroom, Tilak Nagar, Dombivli East, Thane, Dombivli, Maharashtra 421201",
+    "City": "Mumbai",
+    "Area": "Dombivali East",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Shop No, Ground, Kamaldeep Hut 1, West Boring Canal Rd, beside RBL Bank, Anandpuri, Patna, Bihar 800001",
+    "City": "Patna",
+    "Area": "Canal Road",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Building No 6, 1st Floor, next to Shanti Sagar Hotel, P&T Colony, RT Nagar, Bengaluru, Karnataka 560032",
+    "City": "Bangalore",
+    "Area": "RT Nagar",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Floor, Manasa Tower, No 11 & 12, MG Rd, near PVS Circle, Kodailbail, Mangaluru, Karnataka 575003",
+    "City": "Mangalore",
+    "Area": "MG Road",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Ward No 3, Pawar Complex, No 84, CTS No 123/55A2, opposite KSRTC Bus Depot, Dharwad, Hubballi, Karnataka 580021",
+    "City": "Hubli",
+    "Area": "Dharwad",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st floor, H, No 150, Main, GT Karnal Rd, Block 25, Shakti Nagar, New Delhi, Delhi, 110007",
+    "City": "Delhi",
+    "Area": "Shakti Nagar",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, Doctor House, No 101 & 103, Plot No 101, near D Mart, Sector 21, Nerul, Navi Mumbai, Maharashtra 400706",
+    "City": "Mumbai",
+    "Area": "Nerul",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, Magnum Centre, Shop No. 6, 7/8, above Talaulikar Electricals, behind Hotel Mandovi, Panaji, Goa 403001",
+    "City": "Goa",
+    "Area": "Magnum Center",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, The Kollannur Plaza, No CC 39/2158, Mahatma Gandhi Rd, next to Ave Regent Hotel, Pallimukku, Ernakulam, Kerala 682016",
+    "City": "Kochi",
+    "Area": "MG Road",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Subway South End, 103 to 105, KBC CHSL, 1st floor , Kapadia House, adjacent to Platform No 2, Gaothan, Virar, Maharashtra 401303",
+    "City": "Mumbai",
+    "Area": "South End",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Gate No 04, NC Haloi, H No 192, Assam Trunk Rd, Maligaon Gate No.4, Maligaon, Guwahati, Assam 781011",
+    "City": "Assam",
+    "Area": "GS Rd",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Floor, H Kantilal Compound Andheri Kurla Road, Sakinaka, Andheri East, Mumbai, Maharashtra 400072",
+    "City": "Mumbai",
+    "Area": "Andheri East",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Ground Floor, SCO 56 to 58, Madhya Marg, near Punjab National Bank, 9-D, Sector 9, Chandigarh, 160009",
+    "City": "Chandigarh",
+    "Area": "Sector 9D",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Shop No 103, First Floor, Business Centrum Opp Kings Height Apartment, Vidya Kunj Main Road, Amin Marg, Rajkot, Gujarat 360001",
+    "City": "Rajkot",
+    "Area": "Amin Marg",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, B1/517A, above Kotak Mahindra Bank, Block B1, Janakpuri, New Delhi, Delhi, 110058",
+    "City": "Delhi",
+    "Area": "Janakpuri",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Shop No 351, 3rd Flr, Agarwal City Mall Plot No 3, Road No 44, Pitampura, opposite M2K Road, Rani Bagh, Mall, New Delhi, Delhi 110034",
+    "City": "Delhi",
+    "Area": "Pitampura",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Sankul, Plot No-36, Daya Krishna Complex, Office/Block No-FS-2, First Floor, Central Bazar Road, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "City": "Nagpur",
+    "Area": "Central Bazar Road",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Flr, Vinimay Commercial Cplx, PN 16, above HDFC Bank, Udaipole, Toran Bawri, Udiapole, Ganesh Ghati, Udaipur, Rajasthan 313001",
+    "City": "Udaipur",
+    "Area": "Udiapole",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Sindhu Wadi Signal, No 101 & 102, 1st Flr, Value Platinum, 7th Road, next to Sanyas Ashram, Rajawadi Colony, Ghatkopar East, Mumbai, Maharashtra 400077",
+    "City": "Mumbai",
+    "Area": "Ghatkopar",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Floor, 150/151, Diwan Bahadur Rd, above Shri Ganapathi Stores, R.S. Puram, Coimbatore, Tamil Nadu 641002",
+    "City": "Chennai",
+    "Area": "RS Puram",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, 150, near Raj Mahal Square, Ashok Nagar, Bhubaneswar, Odisha 751009",
+    "City": "Bhubaneshwar",
+    "Area": "Ashok Nagar",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st floor, 5/347, Rajiv Gandhi Salai, OMR, Sholinganallur, Okkiyampettai, Chennai, Tamil Nadu 600097",
+    "City": "Chennai",
+    "Area": "Okkiyampettai",
+    "Ratings": 5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Floor, Metro Tower, metro station, No 1B, Pusa Rd, adjacent to Karol bagh, Block B, Karol Bagh, New Delhi, Delhi, 110005",
+    "City": "Delhi",
+    "Area": "Karol Bagh",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Mezzanine Flr, Satyam Shivam Sundaram, M1 & M2, Main Circle, above Girnar Tea Shop, Jay BharatMata Nagar, Sion East, Sion, Mumbai, Maharashtra 400022",
+    "City": "Mumbai",
+    "Area": "Sion",
+    "Ratings": 4.7,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "SN F16, Prince Towers, DN 94/113, 1st St, opposite Abirami Mega Mall, Purasaiwalkam, Chennai, Tamil Nadu 600010",
+    "City": "Chennai",
+    "Area": "Purasaiwalkam",
+    "Ratings": 4.7,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Ground Floor, Viral Complex, BRTS bus Stop, Gopal Chowk, near Bhairavnath, Kalpana Colony, Rambagh, Maninagar, Ahmedabad, Gujarat 380028",
+    "City": "Ahmedabad",
+    "Area": "Maninagar",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Shop No SA 9 & 11, 2nd Flr, Crown Plaza Main Mathura Road, Sector 15A, near Neelam Chowk, Ajronda, Metro, Faridabad, Haryana 121007",
+    "City": "Faridabad",
+    "Area": "Sector 15A",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Ground Floor, Panchsheel, C11, Josip Broz Tito Marg, near Chirag Delhi Flyover, Block C, Panchsheel Enclave, New Delhi, Delhi 110017",
+    "City": "Delhi",
+    "Area": "Panchsheel",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, D No 2/407, Sy No, 308/1B2, Mount Poonamallee Rd, above ICICI Bank, Iyyappanthangal, Chennai, Tamil Nadu 600056",
+    "City": "Chennai",
+    "Area": "Iyyappanthangal",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st & 2nd Floor, Shreetara Apartment, Main, Karve Rd, opposite Mayur Colony Pedestrian Overpass, Mayur Colony, Kothrud, Pune, Maharashtra 411038",
+    "City": "Pune",
+    "Area": "Kothrud",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, District Shopping Centre, SCO 32, near Khalsa International School, B - Block, Ranjit Avenue, Amritsar, Punjab 143001",
+    "City": "Amritsar",
+    "Area": "Ranjit Avenue",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Flr, SDC Vinay Building, No 201B, PN 36 &37, Calgiri Marg, opposite Bhrat Petrol Pump, Moji Colony, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "City": "Jaipur",
+    "Area": "Malviya Nagar",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Ground Floor, Kapil Towers, A 45, near Old RTO office, Shivajinagar, Pune, Maharashtra 411001",
+    "City": "Pune",
+    "Area": "Shivaji Nagar",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Race Course Park, No 12/A, Society, Gotri Rd, near Natubhai, Centre, Vadodara, Gujarat 390015",
+    "City": "Vadodara",
+    "Area": "Gotri Main Road",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "No 16/2/753/A, 1st Floor Gadiannaram, opp. Arthi Scans & Labs, near Konark Diagnostics, Dilsukhnagar, Hyderabad, Telangana 500060",
+    "City": "Hyderabad",
+    "Area": "Dilsukhnagar",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Shop No 12/6/2/273/6, 1st Flr, VC Plaza MJ Colony, opposite BJP Party Office, Vivek Nagar, Kukatpally, Hyderabad, Telangana 500072",
+    "City": "Telangana",
+    "Area": "Vivek Nagar",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "D 412, 3rd Floor, Palam Extension, Ramphal Chowk Rd, opposite Reliance Trends, Sector 7 Dwarka, Dwarka, New Delhi, Delhi 110075",
+    "City": "DELHI",
+    "Area": "Dwarka",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Flr, VRC Complex, No 47/15/10 & 303, Station Road, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530003",
+    "City": "Vizag",
+    "Area": "Dwaraka Nagar",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Flr, Nanaji Business Center, No 5 &6, Canada Corner, Nashik, Maharashtra 422002",
+    "City": "Nashik",
+    "Area": "Canada Corner",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Baccha Park, No 1/2, Ground Floor, Tirupti Plaza, Begum Bridge Rd, Meerut, Uttar Pradesh 250001",
+    "City": "Meerut",
+    "Area": "Begum Bridge Road",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, Manjunath Mansion, No. 3, 7th Cross Rd, opp. Traffic Police Station, 4th Block, Jayanagar, Bengaluru, Karnataka 560011",
+    "City": "Bangalore",
+    "Area": "Jayanagar",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Floor, No. 1, Neeladri Rd, above Samsung Showroom, Karuna Nagar, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100",
+    "City": "Bangalore",
+    "Area": "Electronic City",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, Millenium Square, Nagarjuna Cir Rd, above Crocs showroom, Mothi Nagar, Dwarakapuri, Banjara Hills, Hyderabad, Telangana 500034",
+    "City": "Telangana",
+    "Area": "Banjara hills",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Silicon Tower , 2nd floor, shop no. 208 & 209, Bazarpeth Sanewadi, Badlapur Sta Rd, Asha Vihar, Sarvodaynagar, Manjarli, Badlapur, Maharashtra 421503",
+    "City": "Badlapur",
+    "Area": "Manjarli",
+    "Ratings": 4.7,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "107 First Floor, Plot No.C-21-B, City Mall Bhagwan Das Road, C-Scheme Jaipur Landmark:, Ashok Marg, Jaipur, Rajasthan 302004",
+    "City": "Jaipur",
+    "Area": "Bhagwan Das Road",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": ": Akshay Complex, 1st Floor, Plot 2, ITI Rd, next to Deutsche Bank, Pushpak Park, Aundh, Pune, Maharashtra 411007",
+    "City": "Pune",
+    "Area": "Aundh",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Floor, No. 60/A/1, Raja Subodh Chandra Mallick Rd, Bapuji Nagar, Jadavpur, Kolkata, West Bengal 700092",
+    "City": "Kolkata",
+    "Area": "Jadavpur",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Floor, Sagar Garden, C Wing, Lal Bahadur Shastri Marg, opposite to Dominos, Asha Nagar, Mulund West, Mumbai, Maharashtra 400080",
+    "City": "Mumbai",
+    "Area": "Mulund West",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Outworx, Office No 101, Baner Rd, opposite Oriental Bank of Commerce, Baner, Pune, Maharashtra 411045",
+    "City": "Pune",
+    "Area": "Baner",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "3rd floor, No. 754, Rajapalya Besides, ITTINA AKKALA, ITPL Main Rd, above Lenskart & Muthoot Fincorp, Apartment, Krishnarajapuram, Bengaluru, Karnataka 560048",
+    "City": "Bengaluru",
+    "Area": "ITPL Main Rd,",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, No F10 & 11, above Bata Showroom, Sector 18, Noida, Uttar Pradesh 201301",
+    "City": "Delhi",
+    "Area": "Sector 18",
+    "Ratings": 4.3,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, New Creation, No 130C, Diamond Harbour Rd, above ICICI Bank, Diamond Park, Thakurpukur, Kolkata, West Bengal 700104",
+    "City": "Kolkata",
+    "Area": "Behala",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Floor, Bus Stop, No 201, Grand Southern Trunk Rd, behind Chrompet, New Colony, Chromepet, Chennai, Tamil Nadu 600044",
+    "City": "Chennai",
+    "Area": "Chrompet",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Post office, Ground Floor - G2, Orion place, CK Hazarika Path, GS Rd, near Mizoram House, Guwahati, Assam 781005",
+    "City": "Guwahati",
+    "Area": "Orion place",
+    "Ratings": 4.3,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "No. 78, 23, 100 Feet Rd, near Ashok Pillar, Indira Colony, Ashok Nagar, Chennai, Tamil Nadu 600083",
+    "City": "Chennai",
+    "Area": "Ashoknagar",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, 8/1351/A/1/2, Plot No 1, above State Bank Of India, Rahul Colony, Toli Chowki, Hyderabad, Telangana 500008",
+    "City": "Telangana",
+    "Area": "Tolichowki",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Alankar Complex, 11, Zone-II, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "City": "Bhopal",
+    "Area": "MP Nagar",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Floor, No C, 36, 2nd Ave, above KIA Motors, Anna Nagar, Chennai, Tamil Nadu 600040",
+    "City": "Chennai",
+    "Area": "Anna Nagar",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Shop No 253, 2nd Flr, Mahagun Metro Mall Plot No VC3, Sector 3, Vaishali, Ghaziabad, Uttar Pradesh 201010",
+    "City": "Ghaziabad",
+    "Area": "Sector 3",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd Floor, Kamdhenu Building Corner of Elgin and, Cooper Rd, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "City": "Allahabad",
+    "Area": "Civil Lines",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Flr, CGC Complex, Shop No 4A, 402/1, Kammanahalli Main Rd, above HDFC Bank, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043",
+    "City": "Bangalore",
+    "Area": "Kalyan Ngr",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Minto Park, No 1E & 1E/2, 227/1A, Gardenia Homes, Acharya Jagdish Chandra Bose Rd, opposite La Martiners School, Kolkata, West Bengal 700020",
+    "City": "Kolkata",
+    "Area": "Minto Park",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, Gurusai Plaza, Isidorio Baptista Rd, above Woodland Showroom, Pajifond, Madgaon, Goa 403601",
+    "City": "Goa",
+    "Area": "Pajifond",
+    "Ratings": 4.8,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, Uttam Towers, MG Rd, opposite Jay Alukas Showroom, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "City": "Vijaywada",
+    "Area": "MG Road",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Building No 25B, Sikanderbagh Crossing, Ashok Marg, near CLAT Possible Coaching, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "City": "Lucknow",
+    "Area": "Ashok Marg",
+    "Ratings": 4.7,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Ground Floor, Mehta House, No 10, opposite Bhartiya Vidya Bhavan, Chowpatty, Mumbai, Maharashtra 400007",
+    "City": "Mumbai",
+    "Area": "Chowpatty",
+    "Ratings": 4.7,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "35, Gr, Orange Mall, Bus Stop, Shop No 33, to, Mahesana Highway, near Chandkheda, Ahmedabad, Gujarat 382424",
+    "City": "Ahmedabad",
+    "Area": "Chandkheda, Mahesana Highway",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "2nd floor, Sri Krishna premises co-op society Ltd, Unit 206, opposite Laxmi Industrial estate, Mumbai, Maharashtra 400053",
+    "City": "Mumbai",
+    "Area": "Andheri West",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Shop No: 104 & 105, 1st Floor, New Krishna Building, Chatrapati Shivaji Maharaj Chowk, in front of Chintamani Jewellers, Kalyan West, Kalyan, Maharashtra 421301",
+    "City": "Thane",
+    "Area": "Kalyan West",
+    "Ratings": 4.7,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Building no-22, 4th Floor, above Manoharlal Jewelers, Block E, New Delhi, Delhi 110049",
+    "City": "Delhi",
+    "Area": "South Extension Part 2",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, No 12B, Jessore Rd, above Airtel 4G Showroom, Kailas Nagar, Barasat, Kolkata, West Bengal 700127",
+    "City": "Kolkata",
+    "Area": "Barasat",
+    "Ratings": 4.3,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Shop No B1, Laxminarayan Apartment, Ghod Dod Rd, Ram Chowk, Ravi Dham Complex, Athwa, Surat, Gujarat 395001",
+    "City": "Surat",
+    "Area": "Ghordore Road",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st floor, Kasana Tower, 12, 1, Alpha-I Commercial Belt, Greater Noida, Uttar Pradesh 201308",
+    "City": "Delhi",
+    "Area": "Alpha-I Commercial Belt",
+    "Ratings": 4.1,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, VC Dilaram Bazaar, No 52/A, Rajpur Rd, near Vishal Mega Mart, Kandholi, Chironwali, Dehradun, Uttarakhand 248001",
+    "City": "Deharadun",
+    "Area": "VC Dilaram Bazaar",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Block C-53 A, 3rd Floor RDC, above IDFC Bank, near Indian Oil petrol pump, Raj Nagar, Ghaziabad, Uttar Pradesh 201002",
+    "City": "Delhi",
+    "Area": "Rajnagar",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "88, TT Krishnamachari Rd, near Ethiraj Kalyana Mandapam, Sriram Colony, Alwarpet, Chennai, Tamil Nadu 600018",
+    "City": "Chennai",
+    "Area": "Alwarpet",
+    "Ratings": 4.7,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "No 49, Ground Floor Dr Abani Dutta Road, More, near Pilkhana, Howrah, West Bengal 711101",
+    "City": "Kolkata",
+    "Area": "Howrah",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "R, 1st Floor, No 518, Model Town Rd, near Pal Hospital, Pritm Nagar, Model Town, Ludhiana, Punjab 141002",
+    "City": "Ludhiana",
+    "Area": "Model Town",
+    "Ratings": 4.5,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "North Block, bahu plaza, SN 34B, Ground Floor, near Da France Coffee Shop, Jammu, Jammu and Kashmir 180001",
+    "City": "Jammu",
+    "Area": "Bahu Plaza",
+    "Ratings": 4.6,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "1st Floor, Bank Mkt, SCO 21, Old Delhi Gurgaon Rd, above Muskan Dental Clinic, Sector 14, Gurugram, Haryana 122001",
+    "City": "Gurugram",
+    "Area": "Sector 14",
+    "Ratings": 4.4,
+    "Category": "Address Owned"
+  },
+  {
+    "Headline": "Dr Batra’s  Hair Clinic",
+    "Address": "Shop No 36, 39, D Devaraj Urs Rd, Devaraja Mohalla, Chamrajpura, Mysuru, Karnataka 570001",
+    "City": "Mysore",
+    "Area": "Chamrajpura",
+    "Ratings": 4,
+    "Category": "Address Owned"
+  }
+]

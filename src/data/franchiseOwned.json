@@ -1,0 +1,731 @@
+[
+  {
+    "Sno": 1,
+    "CHC": "Dr Anupama Sarkar",
+    "City": "Agartala",
+    "Area": "Dhaleswar",
+    "URL": "https://www.drbatras.com/doctors-img/franchise/dranupama-10221.jpg",
+    "Photo Status": "Done",
+    "Category": "Franchise"
+  },
+  {
+    "Sno": 2,
+    "CHC": "Dr Vinit Kumar",
+    "City": "Ambala",
+    "Area": "Vijay Nagar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 3,
+    "CHC": "Dr Pooja",
+    "City": "Asansol",
+    "Area": "Rabindra Nagar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 4,
+    "CHC": "Dr Shraddha Patil",
+    "City": "Belgaum1",
+    "Area": "Nehru Nagar",
+    "URL": "",
+    "Photo Status": "Done",
+    "Category": "Franchise"
+  },
+  {
+    "Sno": 5,
+    "CHC": "No Doctor",
+    "City": "Belgaum2",
+    "Area": "Tilakwadi",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 6,
+    "CHC": "Dr Aparna Singh",
+    "City": "Bhagalpur",
+    "Area": "Bhikhanpur",
+    "URL": "https://www.drbatras.com/doctors-img/franchise/draparna-10200.jpg",
+    "Photo Status": "Done",
+    "Category": "Franchise"
+  },
+  {
+    "Sno": 7,
+    "CHC": "Dr Snehalta",
+    "City": "Bhilai",
+    "Area": "Nehru Nagar",
+    "URL": "https://www.drbatras.com/doctors-img/franchise/dr-snehlata-10189.jpg",
+    "Photo Status": "Done",
+    "Category": "Franchise"
+  },
+  {
+    "Sno": 8,
+    "CHC": "Dr Manisha Thakur",
+    "City": "Bilaspur",
+    "Area": "Link Rd",
+    "URL": "http://drbatras.com/doctors-img/franchise/dr-manisha-thakur-10127.jpg",
+    "Photo Status": "Done",
+    "Category": "Franchise"
+  },
+  {
+    "Sno": 9,
+    "CHC": "Dr Kshipra Chandel",
+    "City": "Gandhidham",
+    "Area": "Rabindranath Tagore Rd",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 10,
+    "CHC": "Dr vijay Patel",
+    "City": "Bokaro",
+    "Area": "Chas",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 11,
+    "CHC": "Dr Sanjeev Kumar Yadav",
+    "City": "Dhanbad",
+    "Area": "Chandra Vihar Colony",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 12,
+    "CHC": "Dr Siddharth",
+    "City": "Gaya",
+    "Area": "A P Colony",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 13,
+    "CHC": "Dr Sunil Kumar Yadav",
+    "City": "Gorakhpur",
+    "Area": "Paidleganj",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 14,
+    "CHC": "No Doctor",
+    "City": "Hisar",
+    "Area": "Model Town",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 15,
+    "CHC": "Dr Ambreen Fatima",
+    "City": "Jabalpur",
+    "Area": "Wright Town",
+    "URL": "",
+    "Photo Status": "Done",
+    "Category": "Franchise"
+  },
+  {
+    "Sno": 16,
+    "CHC": "Dr Jyoti Prasad",
+    "City": "Jajpur",
+    "Area": "Byasanagar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 17,
+    "CHC": "Dr Yashwant",
+    "City": "Jamshedpur",
+    "Area": "Bistupur",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 18,
+    "CHC": "Dr Pooja Kushary",
+    "City": "Jharsuguda",
+    "Area": "Marwari Para",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 19,
+    "CHC": "Dr Vivek Singh",
+    "City": "Jodhpur",
+    "Area": "Sardarpura",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 20,
+    "CHC": "No Doctor",
+    "City": "Kolhapur",
+    "Area": "New Shahupuri",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 21,
+    "CHC": "Dr Dinkar Kumar",
+    "City": "Muzaffarpur",
+    "Area": "Mithanpura",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 22,
+    "CHC": "No Doctor",
+    "City": "Sangli",
+    "Area": "Siddhivinayak Forum",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 23,
+    "CHC": "Dr Prassana",
+    "City": "Satara",
+    "Area": "Malhar Peth",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 24,
+    "CHC": "Dr Imitiyaj",
+    "City": "Purnia",
+    "Area": "Line Bazar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 25,
+    "CHC": "Dr Surya N Dwivedi",
+    "City": "Rewa",
+    "Area": "Narendra Nagar",
+    "URL": "https://www.drbatras.com/doctors-img/franchise/dr-surya-n-dwivedi-10157.jpg",
+    "Photo Status": "Done",
+    "Category": "Franchise"
+  },
+  {
+    "Sno": 26,
+    "CHC": "Dr Priyanka",
+    "City": "Rohtak",
+    "Area": "Tilak Nagar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 27,
+    "CHC": "Dr Priya",
+    "City": "Rourkela",
+    "Area": "Sundergarh",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 28,
+    "CHC": "Dr Rahul Kumar",
+    "City": "Rudrapur",
+    "Area": "Jagatpura",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 29,
+    "CHC": "Dr Shruti Jain",
+    "City": "Roorkee",
+    "Area": "Civil Lines",
+    "URL": "https://www.drbatras.com/doctors-img/franchise/dr-shruti-10229.jpg",
+    "Photo Status": "Done",
+    "Category": "Franchise"
+  },
+  {
+    "Sno": 31,
+    "CHC": "DR ANUPAM",
+    "City": "Satna",
+    "Area": "Jeevan Jyoti Colony",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 32,
+    "CHC": "Dr Madhulika",
+    "City": "Solapur",
+    "Area": "Budhavar Peth",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 33,
+    "CHC": "Dr Vinod Kumar",
+    "City": "Sonipat",
+    "Area": "Model Town",
+    "URL": "https://www.drbatras.com/doctors-img/franchise/dr-vinod-kumar-10168.jpg",
+    "Photo Status": "Done",
+    "Category": "Franchise"
+  },
+  {
+    "Sno": 34,
+    "CHC": "Dr Amrutha",
+    "City": "Thrissur",
+    "Area": "Pallikkulam",
+    "URL": "",
+    "Photo Status": "Done",
+    "Category": "Franchise"
+  },
+  {
+    "Sno": 35,
+    "CHC": "Dr Aruna Pathania",
+    "City": "Yamuna Nagar",
+    "Area": "Jagadhri",
+    "URL": "",
+    "Photo Status": "Done",
+    "Category": "Franchise"
+  },
+  {
+    "Sno": 36,
+    "CHC": "No Doctor",
+    "City": "Pathankot",
+    "Area": "Dalhousie Road",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 37,
+    "CHC": "Dr Souraj",
+    "City": "Malappuram/ pretheman",
+    "Area": "Shanti Nagar",
+    "URL": "https://www.drbatras.com/doctors-img/franchise/dr-souraj-10226.jpg",
+    "Photo Status": "Done",
+    "Category": "Franchise"
+  },
+  {
+    "Sno": 38,
+    "CHC": "Dr Himanshi Bhati",
+    "City": "Ajmer",
+    "Area": "Vaishali Nagar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 39,
+    "CHC": "Dr Prakash Shaw",
+    "City": "Bardhaman",
+    "Area": "Nawahat Mode",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 40,
+    "CHC": "Dr Sandeep Yadav",
+    "City": "Alwar",
+    "Area": "Lajpat Nagar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 41,
+    "CHC": "Dr. Ashish Ruplal Yadav",
+    "City": "Akola",
+    "Area": "Sindhi Colony",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 42,
+    "CHC": "Dr Zubeen",
+    "City": "Aligarh",
+    "Area": "Begpur",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 43,
+    "CHC": "No Doctor",
+    "City": "Aurangabad",
+    "Area": "Chhatrapati Sambhaji Nagar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 44,
+    "CHC": "Dr Nidhi Bhatnagar",
+    "City": "Bareilly",
+    "Area": "Ekta Nagar",
+    "URL": "https://www.drbatras.com/doctors-img/franchise/dr-nidhi-10121.jpg",
+    "Photo Status": "Done",
+    "Category": "Franchise"
+  },
+  {
+    "Sno": 45,
+    "CHC": "Dr Neeru",
+    "City": "Bathinda",
+    "Area": "Chandsar Basti",
+    "URL": "http://drbatras.com/doctors-img/franchise/dr-neeru-10122.jpg",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 46,
+    "CHC": "Dr Shafika Hatley",
+    "City": "Bellary",
+    "Area": "#N/A",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 47,
+    "CHC": "Dr Ranjana Kumar",
+    "City": "Bikaner",
+    "Area": "Sardul Ganj",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 48,
+    "CHC": "Dr Unnati",
+    "City": "Chandrapur",
+    "Area": "Azad Garden",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 49,
+    "CHC": "No Doctor",
+    "City": "Chhindwara",
+    "Area": "Vishnu Nagar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 50,
+    "CHC": "Dr Samim Ahmad",
+    "City": "Durgapur",
+    "Area": "Urvashi Housing Complex",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 51,
+    "CHC": "Dr Kaberi",
+    "City": "Guwahati",
+    "Area": "Maligaon",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 52,
+    "CHC": "Dr Sarita Jaiswal",
+    "City": "Haldwani",
+    "Area": "Tikonia Rd",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 53,
+    "CHC": "Dr Manvi Sharma",
+    "City": "Choti Baradari",
+    "Area": "Choti Baradari",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 54,
+    "CHC": "Dr Juee Purohit",
+    "City": "Jamnagar",
+    "Area": "Park Colony",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 55,
+    "CHC": "Dr Priyanka Sharma",
+    "City": "Jhansi",
+    "Area": "Civil Lines",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 56,
+    "CHC": "Dr Shama Parveen",
+    "City": "Kashipur",
+    "Area": "Bazpur road",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 57,
+    "CHC": "Dr Naresh Sharma",
+    "City": "Kota",
+    "Area": "Vigyan Nagar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 58,
+    "CHC": "Dr Sreelakshmi Thankachan",
+    "City": "Kottayam",
+    "Area": "Kanjikuzhi",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 59,
+    "CHC": "Dr Shiksha Quiriyal",
+    "City": "Moradabad",
+    "Area": "Ram Ganga Vihar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 60,
+    "CHC": "Dr Pratibha Apat",
+    "City": "Raipur1",
+    "Area": "Mukut Nagar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 61,
+    "CHC": "Dr Jayanti",
+    "City": "Raipur2",
+    "Area": "Telibandha",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 62,
+    "CHC": "Dr Abhilasha",
+    "City": "Sikar",
+    "Area": "Jat Colony",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 63,
+    "CHC": "Dr Shimul Jamatia",
+    "City": "Siliguri",
+    "Area": "Sevoke Rd",
+    "URL": "https://www.drbatras.com/doctors-img/franchise/dr-shimul-10166.jpg",
+    "Photo Status": "Done",
+    "Category": "Franchise"
+  },
+  {
+    "Sno": 64,
+    "CHC": "Dr Jeetendra Rathore",
+    "City": "Ujjain",
+    "Area": "Madhav Nagar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 65,
+    "CHC": "Dr Digant Banerjee",
+    "City": "Varanasi",
+    "Area": "Orderly Bazar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": "Dr Kavita Sharma"
+  },
+  {
+    "Sno": 66,
+    "CHC": "Dr Sowmyashree",
+    "City": "Hospete",
+    "Area": "Vijayanagara",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 67,
+    "CHC": "Dr Anju Gopal",
+    "City": "Kannur",
+    "Area": "Chettipedika",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 68,
+    "CHC": "Dr Mehak Sharma",
+    "City": "Patiala",
+    "Area": "Model Town,",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 69,
+    "CHC": "Dr Ashutosh",
+    "City": "Davanagere",
+    "Area": "Prince Jayachamaraja Wodeyar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 70,
+    "CHC": "Dr Sushma Devi",
+    "City": "Panipat",
+    "Area": "Model Town",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 71,
+    "CHC": "Dr Saddaf",
+    "City": "Jalna",
+    "Area": "Gawali Pura",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 72,
+    "CHC": "Dr Shubam",
+    "City": "Bhiwadi",
+    "Area": "Bhagat Singh Colony",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 73,
+    "CHC": "Dr Rinki",
+    "City": "Sambalpur",
+    "Area": "Budharaja",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 74,
+    "CHC": "Dr Kanishka",
+    "City": "Haridwar",
+    "Area": "Jwalapur",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 75,
+    "CHC": "Dr Anju",
+    "City": "Krishna Nagar",
+    "Area": "Krishna Nagar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 76,
+    "CHC": "Dr Prerna",
+    "City": "Mehsana",
+    "Area": "Manglaytan Society",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 77,
+    "CHC": "Dr Nikeeta",
+    "City": "Vapi",
+    "Area": "Chala",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 78,
+    "CHC": "Dr Vrishali",
+    "City": "Ahmednagar",
+    "Area": "Premdan Chowk",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 79,
+    "CHC": "Dr Sanika",
+    "City": "Calicut",
+    "Area": "#N/A",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 80,
+    "CHC": "Dr Shreekant A H",
+    "City": "GULBARGA",
+    "Area": "Kalaburagi",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 81,
+    "CHC": "Dr Jincy Merlin",
+    "City": "Madurai",
+    "Area": "Alagar Nagar",
+    "URL": "",
+    "Photo Status": "",
+    "Category": ""
+  },
+  {
+    "Sno": 82,
+    "CHC": "Dr Sunil Yadav",
+    "City": "Basti",
+    "Area": "Chandsar Basti",
+    "URL": "",
+    "Photo Status": "Done",
+    "Category": "Franchise"
+  }
+]
