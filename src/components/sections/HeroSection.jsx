@@ -2,10 +2,10 @@ import React from "react";
 
 const HeroSection = () => {
   return (
-    <div className="w-full  font-sans">
+    <div className="hero-section w-full font-sans">
       {/* Hero Section */}
       <div
-        className="bg-[#1167B1] text-white relative"
+        className=" bg-[#1167B1] text-white relative"
         style={{
           backgroundImage: "url(/hero-bg.png)",
           backgroundSize: "cover",
@@ -25,7 +25,6 @@ const HeroSection = () => {
               </h1>
               <p className="text-sm md:text-base lg:text-[20px] mb-6">
                 Restore your hair with advanced treatments at our leading
-                <br className="hidden sm:block" />
                 clinic, offering expert care for natural, lasting results.
               </p>
               <div className="flex flex-col gap-4 mb-6">
