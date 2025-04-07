@@ -191,7 +191,7 @@ const ClinicCard = ({ clinic, onBookConsultation }) => (
       <div className="flex items-center justify-center gap-1 px-2 py-1">
         <StarIconFilled />
         <span className="text-base text-[#231F20] font-roboto font-semibold leading-[16px] tracking-normal">
-          {clinic.Ratings.toFixed(1)}
+          {clinic.rating.toFixed(1)}
         </span>
       </div>
     </div>
@@ -203,7 +203,7 @@ const ClinicCard = ({ clinic, onBookConsultation }) => (
         <LocationPinIcon />
       </div>
       <p className="font-poppins text-[#231F20] leading-relaxed font-normal text-sm tracking-normal">
-        {clinic.Address}
+        {clinic.address}
       </p>
     </div>
 
@@ -238,8 +238,12 @@ const ClinicNearMeSection = () => {
   // Load data from JSON when component mounts
   useEffect(() => {
     try {
-      setAllClinics(clinicsData);
-      setFilteredClinics(clinicsData);
+      const validatedClinics = clinicsData.map((clinic) => ({
+        ...clinic,
+        rating: clinic.rating || 0, // Ensure rating is always defined
+      }));
+      setAllClinics(validatedClinics);
+      setFilteredClinics(validatedClinics);
     } catch (error) {
       console.error("Error loading clinics data:", error);
       setAllClinics([]);
@@ -256,15 +260,18 @@ const ClinicNearMeSection = () => {
       return;
     }
 
-    // Filter clinics based on City or Area containing the search query
+    // Filter clinics based on city or area containing the search query
     const lowercaseQuery = query.toLowerCase();
-    const filtered = allClinics.filter(
-      (clinic) =>
-        clinic.City.toLowerCase().includes(lowercaseQuery) ||
-        clinic.Area.toLowerCase().includes(lowercaseQuery) ||
-        clinic.Address.toLowerCase().includes(lowercaseQuery)
-    );
-
+    const filtered = allClinics.filter((clinic) => {
+      const city = clinic.city?.toLowerCase() || ""; // Fallback to empty string
+      const area = clinic.area?.toLowerCase() || ""; // Fallback to empty string
+      const address = clinic.address?.toLowerCase() || ""; // Fallback to empty string
+      return (
+        city.includes(lowercaseQuery) ||
+        area.includes(lowercaseQuery) ||
+        address.includes(lowercaseQuery)
+      );
+    });
     setFilteredClinics(filtered);
     setCurrentIndex(0); // Reset
   };
@@ -394,7 +401,7 @@ const ClinicNearMeSection = () => {
                   <div className="flex items-center justify-center gap-1 px-2 py-1">
                     <StarIconFilled />
                     <span className="text-base text-[#231F20] font-roboto font-semibold leading-[16px] tracking-normal">
-                      {filteredClinics[currentIndex].Ratings.toFixed(1)}
+                      {filteredClinics[currentIndex].rating.toFixed(1)}
                     </span>
                   </div>
                 </div>
@@ -406,7 +413,7 @@ const ClinicNearMeSection = () => {
                     <LocationPinIcon />
                   </div>
                   <p className="font-poppins text-[#231F20] leading-relaxed font-normal text-sm tracking-normal">
-                    {filteredClinics[currentIndex].Address}
+                    {filteredClinics[currentIndex].address}
                   </p>
                 </div>
 
@@ -473,10 +480,9 @@ const ClinicNearMeSection = () => {
                   gap: "1rem",
                 }}
               >
-                {/* Render all clinic cards in a row */}
-                {filteredClinics.map((clinic) => (
+                {filteredClinics.map((clinic, index) => (
                   <div
-                    key={clinic.id}
+                    key={clinic.id || index}
                     className={`${
                       getCardsPerSlide() === 3
                         ? "w-[calc(33.333%-0.67rem)]"

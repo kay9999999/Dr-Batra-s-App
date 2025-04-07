@@ -15,15 +15,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+body {
+  color: var(--text-color, #231f20); /* Default to dark text */
+  background-color: var(
+    --background-color,
+    #ffffff
+  ); /* Default to light background */
+}
+
+[data-theme="dark"] {
+  --text-color: #ffffff; /* White text for dark theme */
+  --background-color: #000000; /* Black background for dark theme */
 }
