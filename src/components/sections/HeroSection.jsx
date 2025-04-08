@@ -12,7 +12,7 @@ const HeroSection = () => {
           backgroundPosition: "center",
         }}
       >
-        <div className="relative max-w-full  px-4 sm:px-6 lg:px-8 pt-8  md:pt-0 ">
+        <div className="relative max-w-full  px-4 sm:px-6 lg:px-8 pt-8  ">
           <div className="grid grid-cols-1 md:grid-cols-2 md:gap-8 items-center">
             {/* Left Content */}
             <div className="z-10">
@@ -42,15 +42,15 @@ const HeroSection = () => {
               <div className="relative z-10">
                 <div className="relative">
                   <img
-                    src="/image.png"
+                    src="/banner-img.png"
                     alt="Female Doctor"
-                    className="w-full h-auto object-contain "
+                    className="w-full h-full md:h-[400px]  object-cover "
                   />
 
                   {/* Badge 1: Doctors Globally */}
                   <div
                     className="absolute bg-white text-black rounded-[8px] md:rounded-[53px] flex flex-col items-center justify-center shadow-md z-20
-                    top-32 left-16 w-20 h-10 sm:top-[240px] sm:left-[60px] sm:w-44 sm:h-16 md:top-[120px] md:left-[0px] md:w-36 md:h-16 lg:top-[160px] lg:left-[40px] xl:top-[230px] xl:left-[120px]"
+                    top-12 left-24 w-20 h-10 sm:top-[80px] sm:left-[130px] sm:w-36 sm:h-16 md:top-[140px] md:left-[10px] md:w-36 md:h-16 lg:top-[70px] lg:left-[75px] xl:top-[130px] xl:left-[130px]"
                   >
                     <p className="font-poppins text-[#28AAE1] font-bold text-xs sm:text-base">
                       300+
@@ -63,7 +63,7 @@ const HeroSection = () => {
                   {/* Badge 2: Clinics Globally */}
                   <div
                     className="absolute z-20 flex flex-col items-center justify-center rounded-[8px] md:rounded-[53px] shadow-md bg-[#1E232FE3] text-white
-                    bottom-[240px] right-[30px] w-20 h-10 sm:top-[450px] sm:right-[10px] sm:w-44 sm:h-14 md:top-[300px] md:right-[0px] md:w-36 md:h-16 lg:top-[350px] lg:right-[10px] xl:top-[500px] xl:right-[70px]"
+                    bottom-[80px] right-[50px] w-20 h-10 sm:top-[250px] sm:right-[50px] sm:w-36 sm:h-14 md:top-[260px] md:right-[0px] md:w-36 md:h-16 lg:top-[270px] lg:right-[10px] xl:top-[200px] xl:right-[50px]"
                   >
                     <p className="font-poppins text-[#28AAE1] font-bold text-xs sm:text-base">
                       200+
@@ -76,7 +76,7 @@ const HeroSection = () => {
                   {/* Badge 3: Happy Patients */}
                   <div
                     className="absolute z-20 flex flex-col items-center justify-center rounded-[8px] md:rounded-[53px] shadow-md bg-[#1E232FE3] text-white
-                    bottom-64 left-10 w-20 h-10 sm:top-[430px] sm:left-[50px] sm:w-44 sm:h-14 md:top-[260px] md:left-[0px] md:w-36 md:h-16 lg:top-[300px] lg:left-[20px] xl:top-[430px] xl:left-[100px]"
+                    bottom-12 left-20 w-20 h-10 sm:top-[290px] sm:left-[80px] sm:w-36 sm:h-14 md:top-[290px] md:left-[0px] md:w-36 md:h-16 lg:top-[300px] lg:left-[25px] xl:top-[300px] xl:left-[90px]"
                   >
                     <p className="font-poppins text-[#0073AE] font-bold text-xs sm:text-base">
                       150k+
@@ -89,7 +89,7 @@ const HeroSection = () => {
                   {/* Badge 4: Success Rate */}
                   <div
                     className="absolute bg-white text-black rounded-[8px] md:rounded-[53px] flex flex-col items-center justify-center shadow-md z-20
-                    top-[200px] right-[30px] w-20 h-10 sm:top-[300px] sm:right-[10px] sm:w-44 sm:h-16 md:top-[160px] md:right-[0px] md:w-36 md:h-16 lg:top-[200px] lg:right-[10px] xl:top-[330px] xl:right-[70px]"
+                    top-[20px] right-[30px] w-20 h-10 sm:top-[30px] sm:right-[20px] sm:w-36 sm:h-16 md:top-[170px] md:right-[0px] md:w-36 md:h-16 lg:top-[145px] lg:right-[0px] xl:top-[30px] xl:right-[30px]"
                   >
                     <p className="font-poppins text-[#28AAE1] font-bold text-xs sm:text-base">
                       91%
@@ -103,10 +103,10 @@ const HeroSection = () => {
               {/* Badge 5: Google Rating */}
               <div
                 className="absolute bg-white flex items-center z-20
-                    bottom-4 right-0 "
+                    bottom-2 right-0 "
                 style={{
-                  width: "197.27px",
-                  height: "60px",
+                  width: "175px",
+                  height: "55px",
                   gap: "4px",
                   paddingTop: "8px",
                   paddingRight: "12px",
