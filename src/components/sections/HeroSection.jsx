@@ -44,7 +44,7 @@ const HeroSection = () => {
                   <img
                     src="/banner-img.png"
                     alt="Female Doctor"
-                    className="w-full h-full md:h-[400px]  object-cover "
+                    className="w-full h-full md:h-[400px]  object-cover 2xl:object-contain"
                   />
 
                   {/* Badge 1: Doctors Globally */}

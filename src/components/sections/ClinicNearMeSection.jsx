@@ -186,7 +186,7 @@ const ClinicCard = ({ clinic, onBookConsultation }) => (
   <div className="bg-[white] rounded-lg border border-[#DEE2E6] border-solid p-2 w-82 flex-shrink-0 h-full flex flex-col overflow-hidden">
     <div className="flex justify-between items-center px-4 pt-4 pb-2 flex-shrink-0">
       <h4 className="font-semibold text-[#231F20] text-lg font-poppins leading-relaxed tracking-normal">
-        {clinic.Headline}
+        {clinic.title}
       </h4>
       <div className="flex items-center justify-center gap-1 px-2 py-1">
         <StarIconFilled />
