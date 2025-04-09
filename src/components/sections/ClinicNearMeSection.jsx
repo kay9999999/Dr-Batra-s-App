@@ -277,7 +277,7 @@ const ClinicNearMeSection = () => {
 
   // Fetch city name using reverse geocoding
   const fetchCityName = async (latitude, longitude) => {
-    const API_KEY = "AIzaSyCwbArrIQp00l1EBuMvafgWHYI7iFqSQL8";
+    const API_KEY = import.meta.env.VITE_GOOGLE_API_KEY;
     try {
       const response = await axios.get(
         `https://maps.googleapis.com/maps/api/geocode/json`,

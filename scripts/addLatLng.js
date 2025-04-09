@@ -2,10 +2,10 @@ import fs from "fs";
 import axios from "axios";
 
 // For JSON files in ES modules, Node requires an assertion.
-import clinics from "../src/clinic.json" assert { type: "json" };
+import clinics from "../src/clinic.json" assert { tQype: "json" };
 
 // Your Google Maps API Key
-const API_KEY = "AIzaSyCwbArrIQp00l1EBuMvafgWHYI7iFqSQL8"; // Replace with your API key
+const API_KEY = import.meta.env.VITE_GOOGLE_API_KEY; // Replace with your API key
 
 // Function to fetch latitude and longitude
 const fetchLatLng = async (address) => {

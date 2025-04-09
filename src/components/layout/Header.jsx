@@ -9,7 +9,8 @@ const Header = () => {
 
   // Function to fetch city name using reverse geocoding
   const fetchCityName = async (latitude, longitude) => {
-    const API_KEY = "AIzaSyCwbArrIQp00l1EBuMvafgWHYI7iFqSQL8"; // Replace with your Google Maps API key
+    const API_KEY = import.meta.env.VITE_GOOGLE_API_KEY;
+    console.log("Google API Key:", API_KEY); // Replace with your Google Maps API key
     try {
       const response = await axios.get(
         `https://maps.googleapis.com/maps/api/geocode/json`,
