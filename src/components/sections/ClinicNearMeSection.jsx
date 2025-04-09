@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
-import clinicsData from "../../clinic.json";
+import clinicsData from "../../clinic_with_latlng.json";
 import BookingModal from "../custom/BookingModal";
+import { getDistance } from "geolib"; // Install geolib: npm install geolib
+import axios from "axios";
 
 const SearchIcon = () => (
   <svg
@@ -166,7 +168,7 @@ const RightArrowIcon = () => (
 
 // --- Reusable Components ---
 
-const ClinicSearchBar = ({ onSearch }) => (
+const ClinicSearchBar = ({ onSearch, placeholder }) => (
   <div className="w-[564px] mx-auto mb-8 lg:mb-12">
     <div className="relative">
       <div className="absolute inset-y-0 left-3 flex items-center pointer-events-none z-10">
@@ -174,7 +176,7 @@ const ClinicSearchBar = ({ onSearch }) => (
       </div>
       <input
         type="text"
-        placeholder="Search by city, area or address"
+        placeholder={placeholder || "Search by city, area or address"}
         className="block w-full bg-white border border-[#DEE2E6] border-solid backdrop-blur-[29px] rounded-full py-3 pl-12 pr-4 text-sm font-roboto text-[#231F20] placeholder-[#231F20] focus:outline-none focus:ring-2 focus:ring-[#DEE2E6] focus:border-transparent"
         onChange={(e) => onSearch(e.target.value)}
       />
@@ -234,6 +236,9 @@ const ClinicNearMeSection = () => {
   const [windowWidth, setWindowWidth] = useState(
     typeof window !== "undefined" ? window.innerWidth : 0
   );
+  const [userLocation, setUserLocation] = useState(null);
+  const [geoError, setGeoError] = useState(null);
+  const [city, setCity] = useState("Search by city, area or address"); // Default placeholder
 
   // Load data from JSON when component mounts
   useEffect(() => {
@@ -250,6 +255,75 @@ const ClinicNearMeSection = () => {
       setFilteredClinics([]);
     }
   }, []);
+
+  // Get user's location
+  useEffect(() => {
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(
+        (position) => {
+          const { latitude, longitude } = position.coords;
+          setUserLocation({ latitude, longitude });
+          fetchCityName(latitude, longitude);
+          setGeoError(null);
+        },
+        (error) => {
+          setGeoError(error.message);
+        }
+      );
+    } else {
+      setGeoError("Geolocation is not supported by this browser.");
+    }
+  }, []);
+
+  // Fetch city name using reverse geocoding
+  const fetchCityName = async (latitude, longitude) => {
+    const API_KEY = "AIzaSyCwbArrIQp00l1EBuMvafgWHYI7iFqSQL8";
+    try {
+      const response = await axios.get(
+        `https://maps.googleapis.com/maps/api/geocode/json`,
+        {
+          params: {
+            latlng: `${latitude},${longitude}`,
+            key: API_KEY,
+          },
+        }
+      );
+
+      const addressComponents =
+        response.data.results[0]?.address_components || [];
+      const cityComponent = addressComponents.find((component) =>
+        component.types.includes("locality")
+      );
+
+      if (cityComponent) {
+        setCity(cityComponent.long_name); // Set the city name
+      } else {
+        setCity("Search by city, area or address"); // Fallback if city is not found
+      }
+    } catch (error) {
+      console.error("Error fetching city name:", error);
+      setCity("Search by city, area or address"); // Fallback on error
+    }
+  };
+
+  useEffect(() => {
+    if (userLocation && allClinics.length > 0) {
+      const filtered = allClinics.filter((clinic) => {
+        if (clinic.latitude && clinic.longitude) {
+          const distance = getDistance(
+            {
+              latitude: userLocation.latitude,
+              longitude: userLocation.longitude,
+            },
+            { latitude: clinic.latitude, longitude: clinic.longitude }
+          );
+          return distance <= 10000; // 10 km radius
+        }
+        return false;
+      });
+      setFilteredClinics(filtered);
+    }
+  }, [userLocation, allClinics]);
 
   const handleSearch = (query) => {
     setSearchQuery(query);
@@ -362,7 +436,7 @@ const ClinicNearMeSection = () => {
 
         {/* Search Bar - For desktop */}
         <div className="hidden md:block">
-          <ClinicSearchBar onSearch={handleSearch} />
+          <ClinicSearchBar onSearch={handleSearch} placeholder={city} />
         </div>
 
         {/* Mobile View */}
@@ -396,7 +470,7 @@ const ClinicNearMeSection = () => {
               <div className="bg-white rounded-lg border border-[#DEE2E6] border-solid p-2 flex flex-col overflow-hidden">
                 <div className="flex justify-between items-center px-4 pt-4 pb-2">
                   <h4 className="font-semibold text-[#231F20] text-lg font-poppins leading-relaxed tracking-normal">
-                    {filteredClinics[currentIndex].Headline}
+                    {filteredClinics[currentIndex].title}
                   </h4>
                   <div className="flex items-center justify-center gap-1 px-2 py-1">
                     <StarIconFilled />

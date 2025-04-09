@@ -1,14 +1,66 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { IoSearchOutline } from "react-icons/io5";
 import { FiPhone } from "react-icons/fi";
+import axios from "axios"; // Install axios: npm install axios
 
 const Header = () => {
+  const [city, setCity] = useState("Search our clinics by city"); // Default placeholder
+  const [geoError, setGeoError] = useState(null);
+
+  // Function to fetch city name using reverse geocoding
+  const fetchCityName = async (latitude, longitude) => {
+    const API_KEY = "AIzaSyCwbArrIQp00l1EBuMvafgWHYI7iFqSQL8"; // Replace with your Google Maps API key
+    try {
+      const response = await axios.get(
+        `https://maps.googleapis.com/maps/api/geocode/json`,
+        {
+          params: {
+            latlng: `${latitude},${longitude}`,
+            key: API_KEY,
+          },
+        }
+      );
+
+      const addressComponents =
+        response.data.results[0]?.address_components || [];
+      const cityComponent = addressComponents.find((component) =>
+        component.types.includes("locality")
+      );
+
+      if (cityComponent) {
+        setCity(cityComponent.long_name); // Set the city name
+      } else {
+        setCity("Search our clinics by city"); // Fallback if city is not found
+      }
+    } catch (error) {
+      console.error("Error fetching city name:", error);
+      setCity("Search our clinics by city"); // Fallback on error
+    }
+  };
+
+  // Get user's location
+  useEffect(() => {
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(
+        (position) => {
+          const { latitude, longitude } = position.coords;
+          fetchCityName(latitude, longitude); // Fetch city name based on location
+        },
+        (error) => {
+          console.error("Error getting location:", error);
+          setGeoError("Unable to fetch location");
+        }
+      );
+    } else {
+      setGeoError("Geolocation is not supported by this browser.");
+    }
+  }, []);
+
   return (
     <header className="w-full shadow-sm bg-white">
       <div className="md:hidden mx-auto px-4 py-3 flex items-center justify-between">
         {/* Left: Logo */}
-        <div className=" items-center ">
-          {/* Replace with your actual logo image */}
+        <div className="items-center">
           <img
             src="/DB-logo.webp"
             alt="Dr Batra's Logo"
@@ -18,17 +70,16 @@ const Header = () => {
 
         {/* Center: Search Bar */}
         <div className="flex gap-[12px] md:hidden">
-          <div className="gap-1 items-center justify-center flex  max-w-[150px] py-1 px-2 border border-[#d2d2d5] rounded-[32px]">
+          <div className="gap-1 items-center justify-center flex max-w-[150px] py-1 px-2 border border-[#d2d2d5] rounded-[32px]">
             <IoSearchOutline size={20} className="text-[#1167B1]" />
-
             <input
               type="text"
-              placeholder="Search"
+              placeholder={city} // Dynamically set placeholder
               className="w-full border-none outline-none text-sm text-[#4D4D4D] placeholder-[#8D8D8D]"
             />
           </div>
           <div className="flex gap-4">
-            {/* phone */}
+            {/* Phone */}
             <div className="bg-[#2065A2] px-[6px] py-1 rounded-[6px] flex items-center justify-center">
               <FiPhone className="text-white " size={19} />
             </div>
@@ -92,7 +143,7 @@ const Header = () => {
             </div>
             <input
               type="text"
-              placeholder="Search our clinics by city"
+              placeholder={city} // Dynamically set placeholder
               className="bg-white border border-[#11111C1C] rounded-md py-1 pl-8 pr-3 focus:outline-none  w-64 text-sm text-[#4D4D4D] placeholder-[#8D8D8D] h-11"
             />
           </div>

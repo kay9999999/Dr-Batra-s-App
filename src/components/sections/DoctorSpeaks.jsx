@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 
 const DoctorsSpeakSection = () => {
   const [isMobile, setIsMobile] = useState(true);
+  const [showVideo, setShowVideo] = useState(false);
 
   useEffect(() => {
     const handleResize = () => {
@@ -13,6 +14,30 @@ const DoctorsSpeakSection = () => {
     return () => window.removeEventListener("resize", handleResize);
   }, []);
 
+  // Effect to control body scroll when video is shown
+  useEffect(() => {
+    if (showVideo) {
+      // Prevent scrolling
+      document.body.style.overflow = "hidden";
+    } else {
+      // Re-enable scrolling
+      document.body.style.overflow = "";
+    }
+
+    // Cleanup function
+    return () => {
+      document.body.style.overflow = "";
+    };
+  }, [showVideo]);
+
+  const openVideo = () => {
+    setShowVideo(true);
+  };
+
+  const closeVideo = () => {
+    setShowVideo(false);
+  };
+
   const doctors = [
     {
       id: 1,
@@ -20,6 +45,7 @@ const DoctorsSpeakSection = () => {
       title:
         "Transform Your Hair Health: Dr Batra's Personalized Solutions for Hair Fall",
       image: "/doctor-speaks.png",
+      videoUrl: "https://www.youtube.com/shorts/reGaPBn19Gg",
     },
     {
       id: 2,
@@ -27,6 +53,7 @@ const DoctorsSpeakSection = () => {
       title:
         "Transform Your Hair Health: Dr Batra's Personalized Solutions for Hair Fall",
       image: "/doctor-speaks.png",
+      videoUrl: "https://www.youtube.com/shorts/reGaPBn19Gg",
     },
     {
       id: 3,
@@ -34,6 +61,7 @@ const DoctorsSpeakSection = () => {
       title:
         "Transform Your Hair Health: Dr Batra's Personalized Solutions for Hair Fall",
       image: "/doctor-speaks.png",
+      videoUrl: "https://www.youtube.com/shorts/reGaPBn19Gg",
     },
   ];
 
@@ -75,7 +103,10 @@ const DoctorsSpeakSection = () => {
 
                 <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-blue-800 to-transparent p-2 sm:p-2.5 md:p-3 font-poppins">
                   <div className="flex items-center mb-1">
-                    <div className="w-4 h-4 bg-[#231F20] rounded-full mr-2 flex items-center justify-center">
+                    <div
+                      className="w-4 h-4 bg-[#231F20] rounded-full mr-2 flex items-center justify-center cursor-pointer"
+                      onClick={openVideo}
+                    >
                       <svg
                         className="w-2 h-2 text-white translate-x-[1px]"
                         fill="currentColor"
@@ -116,7 +147,10 @@ const DoctorsSpeakSection = () => {
 
                   <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-blue-800 to-transparent p-3 font-poppins">
                     <div className="flex items-center mb-1">
-                      <div className="w-4 h-4 bg-[#1167B1] flex items-center justify-center rounded-full mr-2">
+                      <div
+                        className="w-4 h-4 bg-[#1167B1] flex items-center justify-center rounded-full mr-2 cursor-pointer"
+                        onClick={openVideo}
+                      >
                         <svg
                           className="w-2 h-2 text-white translate-x-[1px]"
                           fill="currentColor"
@@ -150,6 +184,41 @@ const DoctorsSpeakSection = () => {
               ))}
             </div>
           </>
+        )}
+
+        {/* Video Modal */}
+        {showVideo && (
+          <div className="fixed inset-0  bg-black/80 z-50 flex items-center justify-center">
+            <div className="relative w-full h-2/3 max-w-3xl bg-transparent">
+              <div
+                className="absolute top-4 right-4 cursor-pointer z-10"
+                onClick={closeVideo}
+              >
+                <svg
+                  className="w-6 h-6 text-white"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
+                    d="M6 18L18 6M6 6l12 12"
+                  ></path>
+                </svg>
+              </div>
+              <iframe
+                className="w-full h-full"
+                src="https://www.youtube.com/embed/reGaPBn19Gg?autoplay=1"
+                title="YouTube video player"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              ></iframe>
+            </div>
+          </div>
         )}
       </div>
     </section>

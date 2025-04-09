@@ -1,0 +1,2753 @@
+[
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No. 9, LGF -8, Vasant Square Mall, Pocket 7, Sector B, Vasant Kunj, New Delhi, Delhi 110070",
+    "area": "Vasant Kunj\n",
+    "city": "Delhi",
+    "rating": 4.9,
+    "category": "address_owned",
+    "latitude": 28.524892,
+    "longitude": 77.1566051
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Sy No. 64, Kirthika Layout, Freedom Cross, 2nd floor, Plot No 1, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Madhapur",
+    "city": "Hyderabad",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 17.4378761,
+    "longitude": 78.39349039999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, MK Plaza, A 103, Ghodbunder Rd, near Hypercity, Sai Nagar, Kasarvadavali, Thane West, Thane, Maharashtra 400615",
+    "area": "Kasarvadavali",
+    "city": "Navi Mumbai",
+    "rating": 4.7,
+    "category": "address_owned",
+    "latitude": 19.2691897,
+    "longitude": 72.96575179999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st floor, KMJ IDENTITY, No. 515, 20th Main Rd, opp. Lakshmi Devi Park, KHB Colony, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "area": "Koramangala",
+    "city": "Bangalore",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 12.9389907,
+    "longitude": 77.6190211
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No 2, 1st Floor, LE Desire Complex, Circular Rd, opposite Hari Om Tower, Upper Burdwan Compound, P&T Colony, Nagra Toli, Ranchi, Jharkhand 834001",
+    "area": "Circular Road",
+    "city": "Ranchi",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 23.3762282,
+    "longitude": 85.3334426
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, Maruthi Arcade, No 13, Service Rd, opposite Maurti Mandir, Hosahalli Extension, Vijayanagar, Bengaluru, Karnataka 560040",
+    "area": "Vijay Nagar",
+    "city": "Bangalore",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 12.9669859,
+    "longitude": 77.5363217
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Ground Floor, The Jewel Of Pimpri, 42 to 44, B Wing, opposite Mahanagar Palika Pimpri Office, Pune, Maharashtra 411018",
+    "area": "Jewel of Pimpri",
+    "city": "Pune",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 18.6284991,
+    "longitude": 73.803411
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "107, Iscon Center Shivranjani Cross Road, Satellite Rd, Ahmedabad, Gujarat 380015",
+    "area": "Satellite Road",
+    "city": "Ahmedabad",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 23.019795,
+    "longitude": 72.5294328
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, Ratan Floor, No. 113/120, near Moti Jheel Metro Station, Swaroop Nagar, Kanpur, Uttar Pradesh 208002",
+    "area": "Civil Lines",
+    "city": "Kanpur",
+    "rating": 4.3,
+    "category": "address_owned",
+    "latitude": 26.4792469,
+    "longitude": 80.3175827
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " 1st Floor, No K 834, above Pizza Hut, Ashiyana, Lucknow, Uttar Pradesh 226012",
+    "area": "Ashiyana",
+    "city": "Lucknow",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 26.7837459,
+    "longitude": 80.9191096
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Office No 3 & 4, 1st Flr, Agnelo House Swami Vivekananda Road, Khar Pali Rd, opposite Rajasthan Hotel, Mumbai, Maharashtra 400052",
+    "area": "Khar Pali Road",
+    "city": "Mumbai",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 27.0238036,
+    "longitude": 74.21793260000001
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Ground Floor, S K Towers, TC No 20, Karamana Main Road, near Indian Oil Petrol Pump, Prem Nagar, Karamana, Thiruvananthapuram, Kerala 695002",
+    "area": "Karamana Road",
+    "city": "Trivandrum",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 8.4810987,
+    "longitude": 76.962567
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Building No.18, Shreeji Tower, Metro station, Vikas Marg, near Nirman Vihar, Shankar Vihar, Preet Vihar, Delhi, 110092",
+    "area": "Preet Vihar",
+    "city": "Delhi",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 28.6369635,
+    "longitude": 77.2877758
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No. 1, first floor, Kunjpura Rd, above Vero Moda Showroom, Old Char Chaman, Dyal Singh Colony, Karnal, Haryana 132001",
+    "area": "Sector 14",
+    "city": "Gurgaon",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 29.692972,
+    "longitude": 76.9938947
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, PL Palace, No 12/2/4, Mahatma Gandhi Rd, near Income Tax Office, Sanjay Palace, Sanjay Place, Civil Lines, Agra, Uttar Pradesh 282002",
+    "area": "Sanjay Place",
+    "city": "Agra",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 27.1994877,
+    "longitude": 78.0037317
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, CIT Type CS4, Plot No 9B, Scheme 8M, opposite Lions Club Eye Hospital, Surir Bagan, Ultadanga, Kolkata, West Bengal 700067",
+    "area": "Ultadanga",
+    "city": "Kolkata",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 22.5950452,
+    "longitude": 88.3867478
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Salt Lake Electronics Complex, EN7, 1st Floor, Biswanath Building, Salt Lake Bypass, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+    "area": "Salt Lake",
+    "city": "Kolkata",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 26.7266632,
+    "longitude": 93.1478514
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Ground Floor, Building, No 3, SNo 15/16, Swami Vivekananda Rd, near Domino's Pizza, Meghdoot, Sumer Nagar, Borivali West, Mumbai, Maharashtra 400092",
+    "area": "Borivali West",
+    "city": "Mumbai",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 19.0477377,
+    "longitude": 72.84153189999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Unit No S8, 2nd Floor, near Fun Cinema DD Mall, Phool Bagh, Shinde Ki Chhawani, Gwalior, Madhya Pradesh 474009",
+    "area": "Shinde Ki Chhawani",
+    "city": "Gwalior",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 26.2094362,
+    "longitude": 78.16624
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, BDA 419, Katha No 346/419, above Levis Showroom, Agara Village, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Hosur Sarjappa Rd",
+    "city": "Bangalore",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 12.9230648,
+    "longitude": 77.6464534
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, Service Road, No 35, 5th Cross Rd, above Bangalore E & D Research Centre, Malleshwaram, Bengaluru, Karnataka 560003",
+    "area": "Malleshwaram",
+    "city": "Bangalore",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 12.9920202,
+    "longitude": 77.5652071
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " 3, Gr Flr, Gayathri Arcade, No 10/2/274, Sardar Patel Rd, opposite St Ann's High School, West Marredpally, Hyderabad, Telangana 500026",
+    "area": "West Marredpally",
+    "city": "Hyderabad",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 17.4428366,
+    "longitude": 78.505346
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Morning Site, Sarab Complex, A-60, Main Market, below Lal Path Lab, Housing Board Colony, Sanjauli, Shimla, Himachal Pradesh 171006",
+    "area": "Sanjauli",
+    "city": "Shimla",
+    "rating": 4.7,
+    "category": "address_owned",
+    "latitude": 31.1035091,
+    "longitude": 77.19486169999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No 33,34,37,38, 3rd Floor, Embark Plaza Plot No CS-03, GH-01, Sector 04, Near to Gaur City-01 Greater Noida West, Extension, Noida, Uttar Pradesh 201009",
+    "area": "Gaur City-01 Greater Noida ",
+    "city": "Delhi",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 28.6076725,
+    "longitude": 77.42565499999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop no. 201, 202 and 203, Mira Bhayandar Rd, Sonam Sagar, Indira Nagar, Mira Road East, Mumbai, Mira Bhayandar, Maharashtra 401105",
+    "area": "Mira Road (East)",
+    "city": "Thane",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 19.2972182,
+    "longitude": 72.856939
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "No 483, 1st Floor, Binna Mangala 1st Stage, Chinmaya Mission Hospital Rd, opposite KFC, Indiranagar, Bengaluru, Karnataka 560038",
+    "area": "Indira Nagar",
+    "city": "Bangalore",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 12.9768847,
+    "longitude": 77.6357475
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, MVM Plaza, opposite RR Gold Palace, Old Town, Yelahanka, Bengaluru, Karnataka 560064",
+    "area": "Yelahanka Old Town",
+    "city": "Bangalore",
+    "rating": 4.3,
+    "category": "address_owned",
+    "latitude": 13.0992356,
+    "longitude": 77.5977324
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Flr, Sales, Ratna Business Square, No 133, opposite Kunal Restaurant, Ashram Road, Ahmedabad, Gujarat 380009",
+    "area": "Ashram Road",
+    "city": "Ahmedabad",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 23.0297725,
+    "longitude": 72.56998879999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "No 26/15, Sai Ram Complex 100ft Road, N Extension Main Rd, next to Thalappakatti Restaurant, Vijaya Nagar, Velachery, Chennai, Tamil Nadu 600042",
+    "area": "Velachery",
+    "city": "Chennai",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 12.9763375,
+    "longitude": 80.2190511
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " Pemises, Co op Soc, PN 8, Shanti Centre, Plot No 8, near Navratna Hotel, Sector 17, Vashi, Navi Mumbai, Maharashtra 400703",
+    "area": "Vashi",
+    "city": "Mumbai",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 19.0725199,
+    "longitude": 72.9981865
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, Lunkad Skymax Mall, Unit 101, Datta Mandir Chowk, Konark Nagar, Clover Park, Viman Nagar, Pune,",
+    "area": "Viman Nagar",
+    "city": "Pune",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 18.5653947,
+    "longitude": 73.91377229999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " 1st Floor, SCO 324, above Reliance Digital, Sector 9, Panchkula, Haryana 134109",
+    "area": "Panchkula",
+    "city": "Panchkula",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 30.6950253,
+    "longitude": 76.8498911
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "3, 1st Floor, Besides Reliance Smart, Tain Square, Office No, Fatima Nagar, Wanwadi, Pune, Maharashtra 411040",
+    "area": "Fatima Nagar",
+    "city": "Pune",
+    "rating": 4.3,
+    "category": "address_owned",
+    "latitude": 18.5025663,
+    "longitude": 73.9002201
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, DT City Center Mall, SN 123, Mehrauli-Gurgaon Rd, near Metro Station, Sector 28, Maruti Housing Colony, Gurugram, Sarhol, Haryana 122001",
+    "area": "MG Road",
+    "city": "Gurgaon",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 28.4796277,
+    "longitude": 77.0789372
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, Shreeji Arcade A1, Office No, 11 to 14, Almeda Rd, Panch Pakhdi, Thane West, Thane, Maharashtra 400601",
+    "area": "Panchpakhadi",
+    "city": "Mumbai",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 19.1973653,
+    "longitude": 72.9691149
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Jagannath's Commerce Plaza CHS Char Rasta, SN 126, Manpada Rd, next to Godrej Showroom, Tilak Nagar, Dombivli East, Thane, Dombivli, Maharashtra 421201",
+    "area": "Dombivali East",
+    "city": "Mumbai",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 19.2134796,
+    "longitude": 73.0916862
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No, Ground, Kamaldeep Hut 1, West Boring Canal Rd, beside RBL Bank, Anandpuri, Patna, Bihar 800001",
+    "area": "Canal Road",
+    "city": "Patna",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 25.6151012,
+    "longitude": 85.11982689999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " Building No 6, 1st Floor, next to Shanti Sagar Hotel, P&T Colony, RT Nagar, Bengaluru, Karnataka 560032",
+    "area": "RT Nagar",
+    "city": "Bangalore",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 13.0228692,
+    "longitude": 77.5927476
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, Manasa Tower, No 11 & 12, MG Rd, near PVS Circle, Kodailbail, Mangaluru, Karnataka 575003",
+    "area": " MG Road",
+    "city": "Mangalore",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 12.8766748,
+    "longitude": 74.8415473
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Ward No 3, Pawar Complex, No 84, CTS No 123/55A2, opposite KSRTC Bus Depot, Dharwad, Hubballi, Karnataka 580021",
+    "area": "Dharwad",
+    "city": "Hubli",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 15.35063,
+    "longitude": 75.123256
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st floor, H, No 150, Main, GT Karnal Rd, Block 25, Shakti Nagar, New Delhi, Delhi, 110007",
+    "area": "Shakti Nagar",
+    "city": "Delhi",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 28.6828277,
+    "longitude": 77.1971141
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, Doctor House, No 101 & 103, Plot No 101, near D Mart, Sector 21, Nerul, Navi Mumbai, Maharashtra 400706",
+    "area": "Nerul",
+    "city": "Mumbai",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 19.0295047,
+    "longitude": 73.0206717
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, Magnum Centre, Shop No. 6, 7/8, above Talaulikar Electricals, behind Hotel Mandovi, Panaji, Goa 403001",
+    "area": "Magnum Center",
+    "city": "Goa",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 15.5009538,
+    "longitude": 73.8293928
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, The Kollannur Plaza, No CC 39/2158, Mahatma Gandhi Rd, next to Ave Regent Hotel, Pallimukku, Ernakulam, Kerala 682016",
+    "area": "MG Road",
+    "city": "Kochi",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 9.967117799999999,
+    "longitude": 76.2865815
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Subway South End, 103 to 105, KBC CHSL, 1st floor , Kapadia House, adjacent to Platform No 2, Gaothan, Virar, Maharashtra 401303",
+    "area": "South End",
+    "city": "Mumbai",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 19.4549087,
+    "longitude": 72.8117405
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Gate No 04, NC Haloi, H No 192, Assam Trunk Rd, Maligaon Gate No.4, Maligaon, Guwahati, Assam 781011",
+    "area": "GS Rd",
+    "city": "Assam",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 26.1737917,
+    "longitude": 91.73221749999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, H Kantilal Compound Andheri Kurla Road, Sakinaka, Andheri East, Mumbai, Maharashtra 400072",
+    "area": " Andheri East",
+    "city": "Mumbai",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 19.1060752,
+    "longitude": 72.88547009999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Ground Floor, SCO 56 to 58, Madhya Marg, near Punjab National Bank, 9-D, Sector 9, Chandigarh, 160009",
+    "area": "Sector 9D",
+    "city": "Chandigarh",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 30.7240415,
+    "longitude": 76.80627059999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No 103, First Floor, Business Centrum Opp Kings Height Apartment, Vidya Kunj Main Road, Amin Marg, Rajkot, Gujarat 360001",
+    "area": "Amin Marg",
+    "city": "Rajkot",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 22.28503,
+    "longitude": 70.7811552
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, B1/517A, above Kotak Mahindra Bank, Block B1, Janakpuri, New Delhi, Delhi, 110058",
+    "area": "Janakpuri",
+    "city": "Delhi",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 28.6336169,
+    "longitude": 77.0905267
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No 351, 3rd Flr, Agarwal City Mall Plot No 3, Road No 44, Pitampura, opposite M2K Road, Rani Bagh, Mall, New Delhi, Delhi 110034",
+    "area": "Pitampura",
+    "city": "Delhi",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 28.6903473,
+    "longitude": 77.1343175
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Sankul, Plot No-36, Daya Krishna Complex, Office/Block No-FS-2, First Floor, Central Bazar Road, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Central Bazar Road",
+    "city": "Nagpur",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 21.1340223,
+    "longitude": 79.0732453
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Flr, Vinimay Commercial Cplx, PN 16, above HDFC Bank, Udaipole, Toran Bawri, Udiapole, Ganesh Ghati, Udaipur, Rajasthan 313001",
+    "area": "Udiapole",
+    "city": "Udaipur",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 24.577189,
+    "longitude": 73.699788
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Sindhu Wadi Signal, No 101 & 102, 1st Flr, Value Platinum, 7th Road, next to Sanyas Ashram, Rajawadi Colony, Ghatkopar East, Mumbai, Maharashtra 400077",
+    "area": "Ghatkopar",
+    "city": "Mumbai",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 19.077437,
+    "longitude": 72.90326139999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, 150/151, Diwan Bahadur Rd, above Shri Ganapathi Stores, R.S. Puram, Coimbatore, Tamil Nadu 641002",
+    "area": "RS Puram",
+    "city": "Chennai",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 11.0050524,
+    "longitude": 76.9514159
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, 150, near Raj Mahal Square, Ashok Nagar, Bhubaneswar, Odisha 751009",
+    "area": "Ashok Nagar",
+    "city": "Bhubaneshwar",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 20.262075,
+    "longitude": 85.836947
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st floor, 5/347, Rajiv Gandhi Salai, OMR, Sholinganallur, Okkiyampettai, Chennai, Tamil Nadu 600097",
+    "area": "Okkiyampettai",
+    "city": "Chennai",
+    "rating": 5,
+    "category": "address_owned",
+    "latitude": 12.9277327,
+    "longitude": 80.2307259
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, Metro Tower, metro station, No 1B, Pusa Rd, adjacent to Karol bagh, Block B, Karol Bagh, New Delhi, Delhi, 110005",
+    "area": "Karol Bagh",
+    "city": "Delhi",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 28.6435864,
+    "longitude": 77.18825799999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Mezzanine Flr, Satyam Shivam Sundaram, M1 & M2, Main Circle, above Girnar Tea Shop, Jay BharatMata Nagar, Sion East, Sion, Mumbai, Maharashtra 400022",
+    "area": "Sion",
+    "city": "Mumbai",
+    "rating": 4.7,
+    "category": "address_owned",
+    "latitude": 19.0430244,
+    "longitude": 72.86431069999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "SN F16, Prince Towers, DN 94/113, 1st St, opposite Abirami Mega Mall, Purasaiwalkam, Chennai, Tamil Nadu 600010",
+    "area": "Purasaiwalkam",
+    "city": "Chennai",
+    "rating": 4.7,
+    "category": "address_owned",
+    "latitude": 13.0863981,
+    "longitude": 80.2481735
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " Ground Floor, Viral Complex, BRTS bus Stop, Gopal Chowk, near Bhairavnath, Kalpana Colony, Rambagh, Maninagar, Ahmedabad, Gujarat 380028",
+    "area": "Maninagar",
+    "city": "Ahmedabad",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 22.9932246,
+    "longitude": 72.5994042
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No SA 9 & 11, 2nd Flr, Crown Plaza Main Mathura Road, Sector 15A, near Neelam Chowk, Ajronda, Metro, Faridabad, Haryana 121007",
+    "area": " Sector 15A",
+    "city": "Faridabad",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 28.3978767,
+    "longitude": 77.3130035
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Ground Floor, Panchsheel, C11, Josip Broz Tito Marg, near Chirag Delhi Flyover, Block C, Panchsheel Enclave, New Delhi, Delhi 110017",
+    "area": "Panchsheel",
+    "city": "Delhi",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 28.543674,
+    "longitude": 77.230299
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, D No 2/407, Sy No, 308/1B2, Mount Poonamallee Rd, above ICICI Bank, Iyyappanthangal, Chennai, Tamil Nadu 600056",
+    "area": "Iyyappanthangal",
+    "city": "Chennai",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 13.0373814,
+    "longitude": 80.1380235
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st & 2nd Floor, Shreetara Apartment, Main, Karve Rd, opposite Mayur Colony Pedestrian Overpass, Mayur Colony, Kothrud, Pune, Maharashtra 411038",
+    "area": "Kothrud",
+    "city": " Pune",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 18.5028809,
+    "longitude": 73.8186608
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, District Shopping Centre, SCO 32, near Khalsa International School, B - Block, Ranjit Avenue, Amritsar, Punjab 143001",
+    "area": "Ranjit Avenue",
+    "city": "Amritsar",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 31.6575477,
+    "longitude": 74.86138849999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Flr, SDC Vinay Building, No 201B, PN 36 &37, Calgiri Marg, opposite Bhrat Petrol Pump, Moji Colony, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "Malviya Nagar",
+    "city": "Jaipur",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 26.8592048,
+    "longitude": 75.8086393
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " Ground Floor, Kapil Towers, A 45, near Old RTO office, Shivajinagar, Pune, Maharashtra 411001",
+    "area": "Shivaji Nagar",
+    "city": "Pune",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 18.5304033,
+    "longitude": 73.8625109
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Race Course Park, No 12/A, Society, Gotri Rd, near Natubhai, Centre, Vadodara, Gujarat 390015",
+    "area": "Gotri Main Road",
+    "city": "Vadodara",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 22.3116535,
+    "longitude": 73.1571798
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "No 16/2/753/A, 1st Floor Gadiannaram, opp. Arthi Scans & Labs, near Konark Diagnostics, Dilsukhnagar, Hyderabad, Telangana 500060",
+    "area": "Dilsukhnagar",
+    "city": "Hyderabad",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 17.3680703,
+    "longitude": 78.51976189999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No 12/6/2/273/6, 1st Flr, VC Plaza MJ Colony, opposite BJP Party Office, Vivek Nagar, Kukatpally, Hyderabad, Telangana 500072",
+    "area": " Vivek Nagar",
+    "city": "Telangana",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 17.4826124,
+    "longitude": 78.41377709999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " D 412, 3rd Floor, Palam Extension, Ramphal Chowk Rd, opposite Reliance Trends, Sector 7 Dwarka, Dwarka, New Delhi, Delhi 110075",
+    "area": "Dwarka",
+    "city": "DELHI",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 28.5860794,
+    "longitude": 77.0713811
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Flr, VRC Complex, No 47/15/10 & 303, Station Road, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530003",
+    "area": "Dwaraka Nagar",
+    "city": "Vizag",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 17.7251075,
+    "longitude": 83.3056541
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " 2nd Flr, Nanaji Business Center, No 5 &6, Canada Corner, Nashik, Maharashtra 422002",
+    "area": "Canada Corner",
+    "city": "Nashik",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 20.0073753,
+    "longitude": 73.7673653
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Baccha Park, No 1/2, Ground Floor, Tirupti Plaza, Begum Bridge Rd, Meerut, Uttar Pradesh 250001",
+    "area": "Begum Bridge Road",
+    "city": "Meerut",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 28.984557,
+    "longitude": 77.7083418
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, Manjunath Mansion, No. 3, 7th Cross Rd, opp. Traffic Police Station, 4th Block, Jayanagar, Bengaluru, Karnataka 560011",
+    "area": "Jayanagar",
+    "city": "Bangalore",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 12.912416,
+    "longitude": 77.5852755
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, No. 1, Neeladri Rd, above Samsung Showroom, Karuna Nagar, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100",
+    "area": "Electronic City",
+    "city": "Bangalore",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 12.842506,
+    "longitude": 77.644272
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, Millenium Square, Nagarjuna Cir Rd, above Crocs showroom, Mothi Nagar, Dwarakapuri, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Banjara hills",
+    "city": "Telangana",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 17.4256133,
+    "longitude": 78.4495058
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Silicon Tower , 2nd floor, shop no. 208 & 209, Bazarpeth Sanewadi, Badlapur Sta Rd, Asha Vihar, Sarvodaynagar, Manjarli, Badlapur, Maharashtra 421503",
+    "area": "Manjarli",
+    "city": "Badlapur",
+    "rating": 4.7,
+    "category": "address_owned",
+    "latitude": 19.1671156,
+    "longitude": 73.2421555
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "107 First Floor, Plot No.C-21-B, City Mall Bhagwan Das Road, C-Scheme Jaipur Landmark:, Ashok Marg, Jaipur, Rajasthan 302004",
+    "area": "Bhagwan Das Road",
+    "city": "Jaipur",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 26.9143403,
+    "longitude": 75.8083946
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": ": Akshay Complex, 1st Floor, Plot 2, ITI Rd, next to Deutsche Bank, Pushpak Park, Aundh, Pune, Maharashtra 411007",
+    "area": "Aundh",
+    "city": "Pune",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 18.5535398,
+    "longitude": 73.809714
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " 2nd Floor, No. 60/A/1, Raja Subodh Chandra Mallick Rd, Bapuji Nagar, Jadavpur, Kolkata, West Bengal 700092",
+    "area": "Jadavpur",
+    "city": "Kolkata",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 22.489605,
+    "longitude": 88.3719528
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, Sagar Garden, C Wing, Lal Bahadur Shastri Marg, opposite to Dominos, Asha Nagar, Mulund West, Mumbai, Maharashtra 400080",
+    "area": "Mulund West",
+    "city": "Mumbai",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 19.1685823,
+    "longitude": 72.9397587
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Outworx, Office No 101, Baner Rd, opposite Oriental Bank of Commerce, Baner, Pune, Maharashtra 411045",
+    "area": "Baner",
+    "city": "Pune",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 18.5594585,
+    "longitude": 73.78978099999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "3rd floor, No. 754, Rajapalya Besides, ITTINA AKKALA, ITPL Main Rd, above Lenskart & Muthoot Fincorp, Apartment, Krishnarajapuram, Bengaluru, Karnataka 560048",
+    "area": "ITPL Main Rd,",
+    "city": " Bengaluru",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 12.9911741,
+    "longitude": 77.7212148
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " 1st Floor, No F10 & 11, above Bata Showroom, Sector 18, Noida, Uttar Pradesh 201301",
+    "area": "Sector 18",
+    "city": "Delhi",
+    "rating": 4.3,
+    "category": "address_owned",
+    "latitude": 28.5679548,
+    "longitude": 77.32209250000001
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, New Creation, No 130C, Diamond Harbour Rd, above ICICI Bank, Diamond Park, Thakurpukur, Kolkata, West Bengal 700104",
+    "area": "Behala",
+    "city": "Kolkata",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 22.4549562,
+    "longitude": 88.3040272
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, Bus Stop, No 201, Grand Southern Trunk Rd, behind Chrompet, New Colony, Chromepet, Chennai, Tamil Nadu 600044",
+    "area": " Chrompet",
+    "city": "Chennai",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 13.0819312,
+    "longitude": 80.2777366
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Post office, Ground Floor - G2, Orion place, CK Hazarika Path, GS Rd, near Mizoram House, Guwahati, Assam 781005",
+    "area": " Orion place",
+    "city": " Guwahati",
+    "rating": 4.3,
+    "category": "address_owned",
+    "latitude": 26.1597397,
+    "longitude": 91.77476800000001
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " No. 78, 23, 100 Feet Rd, near Ashok Pillar, Indira Colony, Ashok Nagar, Chennai, Tamil Nadu 600083",
+    "area": "Ashoknagar",
+    "city": "Chennai",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 13.0313343,
+    "longitude": 80.2095721
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, 8/1351/A/1/2, Plot No 1, above State Bank Of India, Rahul Colony, Toli Chowki, Hyderabad, Telangana 500008",
+    "area": "Tolichowki",
+    "city": "Telangana",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 17.4074,
+    "longitude": 78.38323799999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Alankar Complex, 11, Zone-II, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "MP Nagar",
+    "city": "Bhopal",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 23.2299495,
+    "longitude": 77.4340244
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " 2nd Floor, No C, 36, 2nd Ave, above KIA Motors, Anna Nagar, Chennai, Tamil Nadu 600040",
+    "area": "Anna Nagar",
+    "city": "Chennai",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 13.0560826,
+    "longitude": 80.2535812
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No 253, 2nd Flr, Mahagun Metro Mall Plot No VC3, Sector 3, Vaishali, Ghaziabad, Uttar Pradesh 201010",
+    "area": "Sector 3",
+    "city": "Ghaziabad",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 28.6447975,
+    "longitude": 77.3358579
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, Kamdhenu Building Corner of Elgin and, Cooper Rd, Civil Lines, Prayagraj, Uttar Pradesh 211001",
+    "area": "Civil Lines",
+    "city": "Allahabad",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 25.4487886,
+    "longitude": 81.8363351
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Flr, CGC Complex, Shop No 4A, 402/1, Kammanahalli Main Rd, above HDFC Bank, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043",
+    "area": "Kalyan Ngr",
+    "city": "Bangalore",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 13.023735,
+    "longitude": 77.637322
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Minto Park, No 1E & 1E/2, 227/1A, Gardenia Homes, Acharya Jagdish Chandra Bose Rd, opposite La Martiners School, Kolkata, West Bengal 700020",
+    "area": "Minto Park",
+    "city": "Kolkata",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 22.541109,
+    "longitude": 88.355116
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, Gurusai Plaza, Isidorio Baptista Rd, above Woodland Showroom, Pajifond, Madgaon, Goa 403601",
+    "area": "Pajifond",
+    "city": "Goa",
+    "rating": 4.8,
+    "category": "address_owned",
+    "latitude": 15.2725951,
+    "longitude": 73.9612026
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, Uttam Towers, MG Rd, opposite Jay Alukas Showroom, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "MG Road",
+    "city": "Vijaywada",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 16.5028354,
+    "longitude": 80.6405162
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Building No 25B, Sikanderbagh Crossing, Ashok Marg, near CLAT Possible Coaching, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "area": "Ashok Marg",
+    "city": "Lucknow",
+    "rating": 4.7,
+    "category": "address_owned",
+    "latitude": 26.8556024,
+    "longitude": 80.9523928
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Ground Floor, Mehta House, No 10, opposite Bhartiya Vidya Bhavan, Chowpatty, Mumbai, Maharashtra 400007",
+    "area": "Chowpatty",
+    "city": "Mumbai",
+    "rating": 4.7,
+    "category": "address_owned",
+    "latitude": 18.9575777,
+    "longitude": 72.81035030000001
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "35, Gr, Orange Mall, Bus Stop, Shop No 33, to, Mahesana Highway, near Chandkheda, Ahmedabad, Gujarat 382424",
+    "area": " Chandkheda, Mahesana Highway",
+    "city": "Ahmedabad",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 23.9445109,
+    "longitude": 72.6737887
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " 2nd floor, Sri Krishna premises co-op society Ltd, Unit 206, opposite Laxmi Industrial estate, Mumbai, Maharashtra 400053",
+    "area": "Andheri West",
+    "city": "Mumbai",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 19.1156666,
+    "longitude": 72.8398471
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No: 104 & 105, 1st Floor, New Krishna Building, Chatrapati Shivaji Maharaj Chowk, in front of Chintamani Jewellers, Kalyan West, Kalyan, Maharashtra 421301",
+    "area": "Kalyan West",
+    "city": "Thane",
+    "rating": 4.7,
+    "category": "address_owned",
+    "latitude": 19.2401143,
+    "longitude": 73.1290136
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Building no-22, 4th Floor, above Manoharlal Jewelers, Block E, New Delhi, Delhi 110049",
+    "area": "South Extension Part 2",
+    "city": "Delhi",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 28.505091,
+    "longitude": 77.2913131
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, No 12B, Jessore Rd, above Airtel 4G Showroom, Kailas Nagar, Barasat, Kolkata, West Bengal 700127",
+    "area": "Barasat",
+    "city": "Kolkata",
+    "rating": 4.3,
+    "category": "address_owned",
+    "latitude": 22.7101777,
+    "longitude": 88.4754657
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No B1, Laxminarayan Apartment, Ghod Dod Rd, Ram Chowk, Ravi Dham Complex, Athwa, Surat, Gujarat 395001",
+    "area": "Ghordore Road",
+    "city": "Surat",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 21.1764273,
+    "longitude": 72.8166079
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st floor, Kasana Tower, 12, 1, Alpha-I Commercial Belt, Greater Noida, Uttar Pradesh 201308",
+    "area": "Alpha-I Commercial Belt",
+    "city": "Delhi",
+    "rating": 4.1,
+    "category": "address_owned",
+    "latitude": 28.4723714,
+    "longitude": 77.5140181
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, VC Dilaram Bazaar, No 52/A, Rajpur Rd, near Vishal Mega Mart, Kandholi, Chironwali, Dehradun, Uttarakhand 248001",
+    "area": "VC Dilaram Bazaar",
+    "city": "Deharadun",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 30.3363706,
+    "longitude": 78.055157
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Block C-53 A, 3rd Floor RDC, above IDFC Bank, near Indian Oil petrol pump, Raj Nagar, Ghaziabad, Uttar Pradesh 201002",
+    "area": "Rajnagar",
+    "city": "Delhi",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 28.6741058,
+    "longitude": 77.4433373
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "88, TT Krishnamachari Rd, near Ethiraj Kalyana Mandapam, Sriram Colony, Alwarpet, Chennai, Tamil Nadu 600018",
+    "area": " Alwarpet",
+    "city": "Chennai",
+    "rating": 4.7,
+    "category": "address_owned",
+    "latitude": 13.0362934,
+    "longitude": 80.2554585
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "No 49, Ground Floor Dr Abani Dutta Road, More, near Pilkhana, Howrah, West Bengal 711101",
+    "area": "Howrah",
+    "city": "Kolkata",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 22.5941475,
+    "longitude": 88.3412947
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "R, 1st Floor, No 518, Model Town Rd, near Pal Hospital, Pritm Nagar, Model Town, Ludhiana, Punjab 141002",
+    "area": "Model Town",
+    "city": "Ludhiana",
+    "rating": 4.5,
+    "category": "address_owned",
+    "latitude": 30.8915748,
+    "longitude": 75.841627
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "North Block, bahu plaza, SN 34B, Ground Floor, near Da France Coffee Shop, Jammu, Jammu and Kashmir 180001",
+    "area": "Bahu Plaza",
+    "city": "Jammu",
+    "rating": 4.6,
+    "category": "address_owned",
+    "latitude": 32.7020543,
+    "longitude": 74.8710323
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, Bank Mkt, SCO 21, Old Delhi Gurgaon Rd, above Muskan Dental Clinic, Sector 14, Gurugram, Haryana 122001",
+    "area": "Sector 14",
+    "city": "Gurugram",
+    "rating": 4.4,
+    "category": "address_owned",
+    "latitude": 28.4760039,
+    "longitude": 77.0443868
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No 36, 39, D Devaraj Urs Rd, Devaraja Mohalla, Chamrajpura, Mysuru, Karnataka 570001",
+    "area": "\n\nChamrajpura",
+    "city": "Mysore",
+    "rating": 4,
+    "category": "address_owned",
+    "latitude": 12.3094172,
+    "longitude": 76.6484796
+  },
+  {
+    "title": "Prakash Kumar Jha",
+    "area": "Mira Road (East)",
+    "city": "Thane",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Virta Suchak",
+    "area": "Khar Pali Road",
+    "city": "Mumbai",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Ashwini Yogesh Ujawe",
+    "area": "Andheri West",
+    "city": "Mumbai",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Ghazala",
+    "area": "Ashiyana",
+    "city": "Lucknow",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Kiranjot Kaur",
+    "area": "Model Town",
+    "city": "Ludhiana",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Bhagyashri Gandhi",
+    "area": "Sankinaka",
+    "city": "Mumbai",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Trupti Chetan Khapekar",
+    "area": "Borivali West",
+    "city": "Mumbai",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Sultanali Jumman Ali Shaikh",
+    "area": "Chowpatty",
+    "city": "Mumbai",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Ashish Phoolchand Prajapati",
+    "area": "Dombivali East",
+    "city": "Thane",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Sukanta Pramanik",
+    "area": "Salt Lake",
+    "city": "Kolkata",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Yogesh Kumar",
+    "area": "Bhagwan Das Road",
+    "city": "Jaipur",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Tulika Jain",
+    "area": "Sector 3",
+    "city": "Ghaziabad",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Smitha Naradas",
+    "area": " Vivek Nagar",
+    "city": "Hyderabad",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Vaishali Rahul Bhosale",
+    "area": "Kalyan West",
+    "city": "Thane",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Rachana Wahane",
+    "area": "Kasarvadavali",
+    "city": "Thane",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Ratnajit Talukdar",
+    "area": "Howrah",
+    "city": "Kolkata",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Vikas Jaswal",
+    "area": "Sector 9D",
+    "city": "Chandigarh",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Ambreen Rashid",
+    "area": "Panchkula",
+    "city": "Panchkula",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Nazia Bi",
+    "area": "Magnum Center",
+    "city": "Goa",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Hetal Paresh Pabaria",
+    "area": "Panchpakhadi",
+    "city": "Thane",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Prakash Kumar Jha",
+    "area": "Mira Road (East)",
+    "city": "Thane",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Priya Harish Kala",
+    "area": "Nerul",
+    "city": "Navi Mumbai",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Neha Bhimashankar Gunji",
+    "area": "Ghordore Road",
+    "city": "Surat",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Veeranala Venkata Sri Priyanka",
+    "area": "Dwaraka Nagar",
+    "city": "Vizag",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Mohini B Sawant",
+    "area": "Vashi",
+    "city": "Navi Mumbai",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Sheetal D Sawant",
+    "area": "South End",
+    "city": "Navi Mumbai",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Gratel Marian Fernandes",
+    "area": "Pajifond",
+    "city": "Goa",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Bharti Issar",
+    "area": "Udiapole",
+    "city": "Udaipur",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Neha Raghuvanshi",
+    "area": "Preet Vihar",
+    "city": "Delhi",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "C S Surabhi",
+    "area": "Indira Nagar",
+    "city": "Bangalore",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Reena Aggarwal",
+    "area": "Shakti Nagar",
+    "city": "Delhi",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Parshali Sharma",
+    "area": "Satellite Road",
+    "city": "Ahmedabad",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Sunil Singh Chauhan",
+    "area": "MG Road",
+    "city": "Indore",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Nikhil Dania",
+    "area": "Ranjit Avenue",
+    "city": "Amritsar",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Kapil Kumar",
+    "area": "Begum Bridge Road",
+    "city": "Meerut",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Dinesh Kumar",
+    "area": "Sector 14",
+    "city": "Gurgaon",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Kanu Priya",
+    "area": "Sanjauli",
+    "city": "Shimla",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Dinesh Kumar",
+    "area": "Kunjpura Road",
+    "city": "Punjab",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Ritika Saini",
+    "area": "Malviya Nagar",
+    "city": "Jaipur",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Spoorthi M",
+    "area": "Yelahanka Old Town",
+    "city": "Bangalore",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Mansi Makwana",
+    "area": "Amin Marg",
+    "city": "Rajkot",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Dilawer Sultana M",
+    "area": "Okkiyampettai",
+    "city": "Chennai",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Deeksha Gautam",
+    "area": "Greater Noida",
+    "city": "Delhi",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Anil Kumar",
+    "area": "Alpha-I Commercial Belt",
+    "city": "Delhi",
+    "category": "doctors_owned"
+  },
+  {
+    "title": "Dr Anupama Sarkar",
+    "area": "Dhaleswar",
+    "city": "Agartala",
+    "img_url": "https://www.drbatras.com/doctors-img/franchise/dranupama-10221.jpg",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Vinit Kumar",
+    "area": "Vijay Nagar",
+    "city": "Ambala",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Pooja",
+    "area": "Rabindra Nagar",
+    "city": "Asansol",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Shraddha Patil",
+    "area": "Nehru Nagar",
+    "city": "Belgaum1",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "No Doctor",
+    "area": "Tilakwadi",
+    "city": "Belgaum2",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Aparna Singh",
+    "area": "Bhikhanpur",
+    "city": "Bhagalpur",
+    "img_url": "https://www.drbatras.com/doctors-img/franchise/draparna-10200.jpg",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Snehalta",
+    "area": " Nehru Nagar",
+    "city": "Bhilai",
+    "img_url": "https://www.drbatras.com/doctors-img/franchise/dr-snehlata-10189.jpg",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Manisha Thakur",
+    "area": "Link Rd",
+    "city": "Bilaspur",
+    "img_url": "http://drbatras.com/doctors-img/franchise/dr-manisha-thakur-10127.jpg",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Kshipra Chandel",
+    "area": "Rabindranath Tagore Rd",
+    "city": "Gandhidham",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr vijay Patel",
+    "area": "Chas",
+    "city": "Bokaro",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Sanjeev Kumar Yadav",
+    "area": "Chandra Vihar Colony",
+    "city": "Dhanbad",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Siddharth",
+    "area": "A P Colony",
+    "city": "Gaya",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Sunil Kumar Yadav",
+    "area": "Paidleganj",
+    "city": "Gorakhpur",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "No Doctor",
+    "area": "Model Town",
+    "city": "Hisar",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Ambreen Fatima",
+    "area": "Wright Town",
+    "city": "Jabalpur",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Jyoti Prasad",
+    "area": "Byasanagar",
+    "city": "Jajpur",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Yashwant",
+    "area": "Bistupur",
+    "city": "Jamshedpur",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Pooja Kushary",
+    "area": "Marwari Para",
+    "city": "Jharsuguda",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Vivek Singh",
+    "area": "Sardarpura",
+    "city": "Jodhpur",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "No Doctor",
+    "area": "New Shahupuri",
+    "city": "Kolhapur",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Dinkar Kumar",
+    "area": "Mithanpura",
+    "city": "Muzaffarpur",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "No Doctor",
+    "area": " Siddhivinayak Forum",
+    "city": "Sangli",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Prassana",
+    "area": "Malhar Peth",
+    "city": "Satara",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Imitiyaj",
+    "area": "Line Bazar",
+    "city": "Purnia",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Surya N Dwivedi",
+    "area": "Narendra Nagar",
+    "city": "Rewa",
+    "img_url": "https://www.drbatras.com/doctors-img/franchise/dr-surya-n-dwivedi-10157.jpg",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Priyanka",
+    "area": "Tilak Nagar",
+    "city": "Rohtak",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Priya",
+    "area": "Sundergarh",
+    "city": "Rourkela",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Rahul Kumar",
+    "area": "Jagatpura",
+    "city": "Rudrapur",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Shruti Jain",
+    "area": "Civil Lines",
+    "city": "Roorkee",
+    "img_url": "https://www.drbatras.com/doctors-img/franchise/dr-shruti-10229.jpg",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "DR ANUPAM",
+    "area": "Jeevan Jyoti Colony",
+    "city": "Satna",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Madhulika",
+    "area": "Budhavar Peth",
+    "city": "Solapur",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Vinod Kumar",
+    "area": "Model Town",
+    "city": "Sonipat",
+    "img_url": "https://www.drbatras.com/doctors-img/franchise/dr-vinod-kumar-10168.jpg",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Amrutha",
+    "area": "Pallikkulam",
+    "city": "Thrissur",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Aruna Pathania",
+    "area": "Jagadhri",
+    "city": "Yamuna Nagar",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "No Doctor",
+    "area": "Dalhousie Road",
+    "city": "Pathankot",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Souraj",
+    "area": "Shanti Nagar",
+    "city": "Malappuram/ pretheman",
+    "img_url": "https://www.drbatras.com/doctors-img/franchise/dr-souraj-10226.jpg",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Himanshi Bhati",
+    "area": "Vaishali Nagar",
+    "city": "Ajmer",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Prakash Shaw",
+    "area": "Nawahat Mode",
+    "city": "Bardhaman",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Sandeep Yadav",
+    "area": "Lajpat Nagar",
+    "city": "Alwar",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr. Ashish Ruplal Yadav",
+    "area": "Sindhi Colony",
+    "city": "Akola",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Zubeen",
+    "area": "Begpur",
+    "city": "Aligarh",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "No Doctor",
+    "area": "Chhatrapati Sambhaji Nagar",
+    "city": "Aurangabad",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Nidhi Bhatnagar",
+    "area": "Ekta Nagar",
+    "city": "Bareilly",
+    "img_url": "https://www.drbatras.com/doctors-img/franchise/dr-nidhi-10121.jpg",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Neeru",
+    "area": "Chandsar Basti",
+    "city": "Bathinda",
+    "img_url": "http://drbatras.com/doctors-img/franchise/dr-neeru-10122.jpg",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Shafika Hatley",
+    "area": "",
+    "city": "Bellary",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Ranjana Kumar",
+    "area": "Sardul Ganj",
+    "city": "Bikaner",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Unnati",
+    "area": "Azad Garden",
+    "city": "Chandrapur",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "No Doctor",
+    "area": "Vishnu Nagar",
+    "city": "Chhindwara",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Samim Ahmad",
+    "area": "Urvashi Housing Complex",
+    "city": "Durgapur",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Kaberi",
+    "area": "Maligaon",
+    "city": " Guwahati",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Sarita Jaiswal",
+    "area": "Tikonia Rd",
+    "city": "Haldwani",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Manvi Sharma",
+    "area": "Choti Baradari",
+    "city": "Choti Baradari",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Juee Purohit",
+    "area": "Park Colony",
+    "city": "Jamnagar",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Priyanka Sharma",
+    "area": "Civil Lines",
+    "city": "Jhansi",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Shama Parveen",
+    "area": "Bazpur road",
+    "city": "Kashipur",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Naresh Sharma",
+    "area": "Vigyan Nagar",
+    "city": "Kota",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Sreelakshmi Thankachan",
+    "area": "Kanjikuzhi",
+    "city": "Kottayam",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Shiksha Quiriyal",
+    "area": "Ram Ganga Vihar",
+    "city": "Moradabad",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Pratibha Apat",
+    "area": "Mukut Nagar",
+    "city": "Raipur1",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Jayanti",
+    "area": "Telibandha",
+    "city": "Raipur2",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Abhilasha",
+    "area": "Jat Colony",
+    "city": "Sikar",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Shimul Jamatia",
+    "area": "Sevoke Rd",
+    "city": "Siliguri",
+    "img_url": "https://www.drbatras.com/doctors-img/franchise/dr-shimul-10166.jpg",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Jeetendra Rathore",
+    "area": "Madhav Nagar",
+    "city": "Ujjain",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Digant Banerjee",
+    "area": "Orderly Bazar",
+    "city": "Varanasi",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Sowmyashree",
+    "area": "Vijayanagara",
+    "city": "Hospete",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Anju Gopal",
+    "area": "Chettipedika",
+    "city": "Kannur",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Mehak Sharma",
+    "area": "Model Town,",
+    "city": "Patiala",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Ashutosh",
+    "area": "Prince Jayachamaraja Wodeyar",
+    "city": "Davanagere",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Sushma Devi",
+    "area": "Model Town",
+    "city": "Panipat",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Saddaf",
+    "area": "Gawali Pura",
+    "city": "Jalna",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Shubam",
+    "area": "Bhagat Singh Colony",
+    "city": "Bhiwadi",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Rinki",
+    "area": "Budharaja",
+    "city": "Sambalpur",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Kanishka",
+    "area": "Jwalapur",
+    "city": "Haridwar",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Anju",
+    "area": "Krishna Nagar",
+    "city": "Krishna Nagar",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Prerna",
+    "area": "Manglaytan Society",
+    "city": "Mehsana",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Nikeeta",
+    "area": "Chala",
+    "city": "Vapi",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Vrishali",
+    "area": "Premdan Chowk",
+    "city": "Ahmednagar",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Sanika",
+    "area": "",
+    "city": "Calicut",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Shreekant A H",
+    "area": "Kalaburagi",
+    "city": "GULBARGA",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Jincy Merlin",
+    "area": "Alagar Nagar",
+    "city": "Madurai",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Sunil Yadav",
+    "area": "Chandsar Basti",
+    "city": "Basti",
+    "category": "doctors_franchise"
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "No. 61A, SS Plaza Kalepur, near Chatrasangh Chauraha, Paidleganj, Gorakhpur, Uttar Pradesh 273001",
+    "area": "Paidleganj",
+    "city": "Gorakhpur",
+    "rating": 4.1,
+    "category": "franchise_clinic",
+    "latitude": 26.7454263,
+    "longitude": 83.3797557
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Ground Floor, John Tower (AIRTEL CELL TOWER), near College Chauraha, Narendra Nagar, Amaiya Colony, Rewa, Madhya Pradesh 486001",
+    "area": "Narendra Nagar",
+    "city": "Rewa",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 24.5419292,
+    "longitude": 81.29593849999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "No. 17-A, Stadium Rd, opposite Sant Hospital, Ekta Nagar, Bareilly, Uttar Pradesh 243112",
+    "area": "Ekta Nagar",
+    "city": "Bareilly",
+    "rating": 4.1,
+    "category": "franchise_clinic",
+    "latitude": 28.3767145,
+    "longitude": 79.4333203
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, Bhagat Singh Circle, Saroj Tower, above Nike showroom, Shivaji Park, Lajpat Nagar, Alwar, Rajasthan 301001",
+    "area": "Lajpat Nagar",
+    "city": "Alwar",
+    "rating": 4.6,
+    "category": "franchise_clinic",
+    "latitude": 27.5697477,
+    "longitude": 76.61396839999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, City Center Complex, SCO-23, 22 No. Phatak, opp. Sahni Sweets, Model Town, Patiala, Punjab 147001",
+    "area": "Model Town,",
+    "city": " Patiala",
+    "rating": 4.3,
+    "category": "franchise_clinic",
+    "latitude": 30.3429931,
+    "longitude": 76.3784539
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No. 28, Ground floor, Pacific city center Mall, Delhi Bypass road, near Jat Bhawan, Tilak Nagar, Sector 3 (P), Rohtak, Haryana 124001",
+    "area": "Tilak Nagar",
+    "city": " Rohtak",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 28.8900847,
+    "longitude": 76.6259818
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, Krishna Bhawan, Club Rd, near New Biryani Darbar, Haji Nagar Colony, Mithanpura, Muzaffarpur, Bihar 842002",
+    "area": "Mithanpura",
+    "city": "Muzaffarpur",
+    "rating": 4.1,
+    "category": "franchise_clinic",
+    "latitude": 26.1065282,
+    "longitude": 85.3978339
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Agrasen Chowk, Marwari Para, near Police Station, Marwari Para, Jharsuguda, Odisha 768201",
+    "area": "Marwari Para",
+    "city": "Jharsuguda",
+    "rating": 4.7,
+    "category": "franchise_clinic",
+    "latitude": 21.8556855,
+    "longitude": 84.0138016
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Dev Bazar, Bazpur road, beside DTDC Courier, Kashipur, Uttarakhand 244713",
+    "area": "Bazpur road",
+    "city": "Kashipur",
+    "rating": 4.9,
+    "category": "franchise_clinic",
+    "latitude": 29.168941,
+    "longitude": 79.1451688
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "No. 2 Ma 18, Sabji Mandi Rd, opposite Neelkanth IVF, Vigyan Nagar, Kota, Rajasthan 324005",
+    "area": "Vigyan Nagar",
+    "city": " Kota",
+    "rating": 4.2,
+    "category": "franchise_clinic",
+    "latitude": 25.151723,
+    "longitude": 75.8565315
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Flr, Nandanam Elite, 160/1/1, 160/2, Kamarajar Salai, near Reliance Trends, Alagar Nagar, Madurai, Tamil Nadu 625009",
+    "area": "Alagar Nagar",
+    "city": "Madurai",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 9.913578099999999,
+    "longitude": 78.1443772
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, SLT Water Front, Complex, Great Eastern Rd, Moulipara, Telibandha, Raipur, Chhattisgarh 492001",
+    "area": "Telibandha",
+    "city": "Raipur",
+    "rating": 4.4,
+    "category": "franchise_clinic",
+    "latitude": 21.2411095,
+    "longitude": 81.66082399999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " 1st Flr, Cross Road Building, No. 102, CS No. 331, opp. Galaxy Apartment, New Shahupuri, Kolhapur, Maharashtra 416003",
+    "area": "New Shahupuri",
+    "city": "Kolhapur",
+    "rating": 4.6,
+    "category": "franchise_clinic",
+    "latitude": 16.692432,
+    "longitude": 74.246488
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Nawahat Mode,Near Tvs Showroom,  Adjacent To Sanjeevni Nursing Home, Burdwan, West Bengal 713101",
+    "area": "Nawahat Mode",
+    "city": "Burdwan",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 23.2645207,
+    "longitude": 87.8337763
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " 1st Floor, Raghuwanshi Complex, Azad Garden, Bazar Ward, Chandrapur, Maharashtra 442401",
+    "area": "Azad Garden",
+    "city": "Chandrapur",
+    "rating": 4.3,
+    "category": "franchise_clinic",
+    "latitude": 19.950536,
+    "longitude": 79.2962834
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st floor, Tiwari Arcade, opp. Chatrapati Shivaji Maharaj Road, Putla Chowk, Gawali Pura, Jalna, Maharashtra 431203",
+    "area": "Gawali Pura",
+    "city": " Jalna",
+    "rating": 4.9,
+    "category": "franchise_clinic",
+    "latitude": 19.8443009,
+    "longitude": 75.9053804
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st floor, Ranipur More, No. 486, Model Colony Rd, opp. Mahakali Mobile, Model Colony, Haridwar, Jwalapur, Uttarakhand 249401",
+    "area": "Jwalapur",
+    "city": "Haridwar",
+    "rating": 4.4,
+    "category": "franchise_clinic",
+    "latitude": 29.933746,
+    "longitude": 78.13389409999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Akbar Ka Kila, First Floor, Prabha Palace, Sonakpur, Stadium Rd, near Prem Sweets, Phase I, Ram Ganga Vihar, Moradabad, Uttar Pradesh 244001",
+    "area": "Ram Ganga Vihar",
+    "city": " Moradabad",
+    "rating": 4.2,
+    "category": "franchise_clinic",
+    "latitude": 28.8667715,
+    "longitude": 78.7474995
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "A/B, GF, Buniyaad Complex, No. 106, Plot No. 9, near Water Tank, Nehru Nagar, Bhilai, Chhattisgarh 490020",
+    "area": " Nehru Nagar",
+    "city": "Bhilai",
+    "rating": 4.3,
+    "category": "franchise_clinic",
+    "latitude": 21.2057562,
+    "longitude": 81.32700249999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "3rd Floor, 373, South Kasaba, Main Rd, opp. Unique Hospital, above Birajdar Medical, Shinde Wada, Budhavar Peth, Solapur, Maharashtra 413001",
+    "area": "Budhavar Peth",
+    "city": "Solapur",
+    "rating": 4.2,
+    "category": "franchise_clinic",
+    "latitude": 17.6775065,
+    "longitude": 75.9066746
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Manaswin Towers, No 97/3E, behind Elite Cinema, Civil Lines, Jhansi, Uttar Pradesh 284001",
+    "area": "Civil Lines",
+    "city": "Jhansi",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 25.4470061,
+    "longitude": 78.5670608
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, Chotti Line, above Women Hair Design Salon, Prem Colony, Yamuna Nagar, Jagadhri, Haryana 135003",
+    "area": "Jagadhri",
+    "city": "Yamuna Nagar",
+    "rating": 4.6,
+    "category": "franchise_clinic",
+    "latitude": 30.1424372,
+    "longitude": 77.2996769
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, Mehta Tower, 51/S, Gurudwara Rd, above Headmasters Salon, Model Town, Hisar, Haryana 125005",
+    "area": "Model Town",
+    "city": "Hisar",
+    "rating": 4.6,
+    "category": "franchise_clinic",
+    "latitude": 29.1345385,
+    "longitude": 75.7440491
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Maruti Business Park, Great Eastern Rd, near Rajkumar College, Mukut Nagar, Raipur, Chhattisgarh 492001",
+    "area": "Mukut Nagar",
+    "city": "Raipur",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 21.2395843,
+    "longitude": 81.6140913
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "No. 8 and 635- L, 1st floor Jattal Rd, Chowk, opposite Juneja Medical Hall, Marla Colony, Model Town, Panipat, Haryana 132103",
+    "area": "Model Town",
+    "city": "Panipat",
+    "rating": 4.3,
+    "category": "franchise_clinic",
+    "latitude": 29.3815116,
+    "longitude": 76.9593378
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "B-K, S 25/221, Panchkoshi Rd, next to Smartpoint, Near Mahaveer Mandir, Orderly Bazar, Varanasi, Uttar Pradesh 221002",
+    "area": "Orderly Bazar",
+    "city": "Varanasi",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 25.3529446,
+    "longitude": 82.97632229999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "4th Ward, Sharada Complex, No. 489 & 498, 1st Flr, Rajkumar Circle, nr. Punith, Patel Nagar, Vijayanagara, Hospet Karnataka 583203",
+    "area": "Vijayanagara",
+    "city": " Hospet",
+    "rating": 4.8,
+    "category": "franchise_clinic",
+    "latitude": 15.2767198,
+    "longitude": 76.3870127
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "YES BANK, TI Mall, 2 nd Floor, 102, Building 9/1/2 Above Suzuki Showroom, Khandelwal Motors, Mahatma Gandhi Rd, Indore, Madhya Pradesh 452001",
+    "area": "Mahatma Gandhi Rd",
+    "city": "Indore",
+    "rating": 4.4,
+    "category": "franchise_clinic",
+    "latitude": 22.7191655,
+    "longitude": 75.84988299999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "No. 30, Old Delhi Road, opposite Manali House, Jain Nagar, Vijay Nagar, Ambala, Haryana 134003",
+    "area": "Vijay Nagar",
+    "city": "Ambala",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 30.3612083,
+    "longitude": 76.774433
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, Sanyukt Towers, Barwa Road, Bartand, Chandra Vihar Colony, Dhanbad, Jharkhand 826001",
+    "area": "Chandra Vihar Colony",
+    "city": " Dhanbad",
+    "rating": 4.1,
+    "category": "franchise_clinic",
+    "latitude": 23.8128375,
+    "longitude": 86.43239059999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Opposite Reliance Smart, Mahaveer Colony, Chorda Chhak, Byasanagar, Jajpur, Odisha 755019",
+    "area": "Byasanagar",
+    "city": " Jajpur",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 20.9526512,
+    "longitude": 86.129482
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Premdan Chowk, No 2, Royal Heights, Savedi Rd, near Big Bazaar, Ahilya Nagar, Maharashtra 414003",
+    "area": "Premdan Chowk",
+    "city": " Ahmednagar",
+    "rating": 4.1,
+    "category": "franchise_clinic",
+    "latitude": 19.116993,
+    "longitude": 74.72904799999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd floor, Mukhtar Mansion, Straight Mile Road Near Blood bank, Dhatkidih, Bistupur, Jamshedpur, Jharkhand 831001",
+    "area": "Bistupur",
+    "city": "Jamshedpur",
+    "rating": 4.3,
+    "category": "franchise_clinic",
+    "latitude": 22.80448,
+    "longitude": 86.18078539999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Axis Bank Building Ainthapali, near Reliance Trend, Budharaja, Sambalpur, Odisha 768004",
+    "area": "Budharaja",
+    "city": "Sambalpur",
+    "rating": 4.3,
+    "category": "franchise_clinic",
+    "latitude": 21.4908901,
+    "longitude": 83.98535079999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " First floor, Kim's Avenue, Pattambi Rd, Shanti Nagar, Perinthalmanna, Kerala 679322",
+    "area": "Shanti Nagar",
+    "city": "Perinthalmanna",
+    "rating": 0,
+    "category": "franchise_clinic",
+    "latitude": 10.9714874,
+    "longitude": 76.2272804
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "No. 155/1, Gorakhpur-Thane Road, near Bandariya Tiraha, Gorakhpur, Jabalpur, Madhya Pradesh 482001",
+    "area": "Gorakhpur-Thane Road",
+    "city": "Jabalpur",
+    "rating": 4.4,
+    "category": "franchise_clinic",
+    "latitude": 23.1442899,
+    "longitude": 79.92664889999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st floor, 59, Kshapnak Marg., opposite Madhav Nagar hospital, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Madhav Nagar",
+    "city": " Ujjain",
+    "rating": 4.3,
+    "category": "franchise_clinic",
+    "latitude": 23.177544,
+    "longitude": 75.79354649999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "BSC Textile, 1st Railway gate, Shop No F03, 1st floor, Datta Krupa complex Shukrawar Peth, Mall Road, opposite Hotel Niyaaz, Tilakwadi, Belagavi, Karnataka 590006",
+    "area": "Tilakwadi",
+    "city": "Belgaum2",
+    "rating": 4.9,
+    "category": "franchise_clinic",
+    "latitude": 15.838149,
+    "longitude": 74.503503
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " Galaxy Auto Sales Building, Marris Rd, near HDFC Life, Begpur, Aligarh, Uttar Pradesh 202001",
+    "area": "Begpur",
+    "city": "Aligarh",
+    "rating": 4.2,
+    "category": "franchise_clinic",
+    "latitude": 27.8992788,
+    "longitude": 78.087217
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "C/o Sanjay Achalia, Basant Vihar Complex, Don Bosco Road, Sevoke Rd, Siliguri, West Bengal 734001",
+    "area": "Sevoke Rd, ",
+    "city": "Siliguri",
+    "rating": 4.1,
+    "category": "franchise_clinic",
+    "latitude": 26.7459103,
+    "longitude": 88.4388785
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " T1, Siddhivinayak Forum, No 74, Mariaai Complex, Sangli - Miraj Rd, opp. Zilla Parishad School, Sangli, Maharashtra 416416",
+    "area": " Siddhivinayak Forum",
+    "city": "Sangli",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 16.8462745,
+    "longitude": 74.6019188
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Ground Floor, Parasia Rd, opp. Gogia Hospital, Vishnu Nagar, Chhindwara, Madhya Pradesh 480001",
+    "area": "Vishnu Nagar",
+    "city": " Chhindwara",
+    "rating": 4.9,
+    "category": "franchise_clinic",
+    "latitude": 22.0635578,
+    "longitude": 78.91560369999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, E Town Shopping Complex, E Fort Jct, above Reliance supermarket, East Fort, Pallikkulam, Thrissur, Kerala 680005",
+    "area": "Pallikkulam,",
+    "city": " Thrissur",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 10.5228247,
+    "longitude": 76.22531980000001
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Flr, No. 12 & 13, opposite Dandiya Hanuman Temple, Park Colony, Jamnagar, Gujarat 361008",
+    "area": "Park Colony",
+    "city": " Jamnagar",
+    "rating": 4.2,
+    "category": "franchise_clinic",
+    "latitude": 22.4667493,
+    "longitude": 70.07337319999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Ground Floor, GT Rd, near Sagar Hotel & Hanuman Chowk, Chandsar Basti, Bathinda, Punjab 151001",
+    "area": "Chandsar Basti",
+    "city": "Bathinda",
+    "rating": 4.3,
+    "category": "franchise_clinic",
+    "latitude": 30.2123011,
+    "longitude": 74.9445217
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Urvashi Housing Complex, DC Cinema, 3/7, Durgapur, West Bengal 713216",
+    "area": "Urvashi Housing Complex",
+    "city": "Durgapur",
+    "rating": 4.2,
+    "category": "franchise_clinic",
+    "latitude": 23.5375702,
+    "longitude": 87.3015355
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Ground Flr, Asha Singh Mod, Balajee Gharana Cplx, near Kaveri Sweets, A P Colony, Gaya, Bihar 823001",
+    "area": "A P Colony",
+    "city": "Gaya",
+    "rating": 4.3,
+    "category": "franchise_clinic",
+    "latitude": 24.7815497,
+    "longitude": 84.9840074
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, Guru Harkrishan Complex Nanital Road, Tikonia Rd, Haldwani, Uttarakhand 263139",
+    "area": "Tikonia Rd",
+    "city": " Haldwani",
+    "rating": 4.1,
+    "category": "franchise_clinic",
+    "latitude": 29.2190087,
+    "longitude": 79.5298242
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, Vetteel estate Building, Kottayam - Kumily Rd, opp. to Bharat petroleum, above SBI, Kanjikuzhi, Kottayam, Kerala 686004",
+    "area": "Kanjikuzhi",
+    "city": " Kottayam",
+    "rating": 4.4,
+    "category": "franchise_clinic",
+    "latitude": 9.5884561,
+    "longitude": 76.5385281
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " SCO 14, Crystal Plaza, Garha Rd, near PIMS, Choti Baradari Part 1, Choti Baradari, Jalandhar, Punjab 144001",
+    "area": "Choti Baradari",
+    "city": " Jalandhar",
+    "rating": 4.3,
+    "category": "franchise_clinic",
+    "latitude": 31.3033761,
+    "longitude": 75.594608
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Flr, Laxmi Pride Buliding, 2, Nehru Nagar, Belagavi, Karnataka 590010",
+    "area": "Nehru Nagar",
+    "city": "Belgaum1",
+    "rating": 4.8,
+    "category": "franchise_clinic",
+    "latitude": 15.881272,
+    "longitude": 74.51364
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Flr, Gupta Heights, No. C2, near Urban Haat Bazar, Vaishali Nagar, Ajmer, Rajasthan 305004",
+    "area": "Vaishali Nagar",
+    "city": " Ajmer",
+    "rating": 4.3,
+    "category": "franchise_clinic",
+    "latitude": 26.4873405,
+    "longitude": 74.6292466
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd flour, Shaakuntlam tower, Alwar bye pass road, near Harish bekari, above of AU financial bank, Bhagat Singh Colony, U.I.T., Bhiwadi, Rajasthan 301019",
+    "area": "Bhagat Singh Colony",
+    "city": " Bhiwadi",
+    "rating": 4.9,
+    "category": "franchise_clinic",
+    "latitude": 28.2064126,
+    "longitude": 76.8075362
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, Shree Complex, Dalhousie Road, near Pantaloons, Pathankot, Punjab 145001",
+    "area": "Dalhousie Road",
+    "city": "Pathankot",
+    "rating": 4.7,
+    "category": "franchise_clinic",
+    "latitude": 32.2733659,
+    "longitude": 75.675702
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Model Town Rd, near Mittal Nursing Home, 8 Marla, Model Town, Sonipat, Haryana 131001",
+    "area": "Model Town",
+    "city": "Sonipat",
+    "rating": 4.3,
+    "category": "franchise_clinic",
+    "latitude": 28.9885268,
+    "longitude": 77.0233581
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No.125, V2 Signature, Daman Rd, above Domino’s Pizza, Chala, Vapi, Gujarat 396191",
+    "area": "Chala",
+    "city": "Vapi",
+    "rating": 4.2,
+    "category": "franchise_clinic",
+    "latitude": 20.3936967,
+    "longitude": 72.8936076
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Sangam Complex, No. 98C, opposite Jai Guru Dev Ashram, Radha Nagar, Krishna Nagar, Mathura, Uttar Pradesh 281004",
+    "area": "Krishna Nagar",
+    "city": " Mathura",
+    "rating": 4.6,
+    "category": "franchise_clinic",
+    "latitude": 27.5019791,
+    "longitude": 77.6603913
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st floor, Ekta Tower, Rewa Rd, above ICICI Bank, Shakti Vihar, Jeevan Jyoti Colony, Satna, Madhya Pradesh 485001",
+    "area": "Jeevan Jyoti Colony",
+    "city": " Satna",
+    "rating": 4.1,
+    "category": "franchise_clinic",
+    "latitude": 24.5733927,
+    "longitude": 80.8392061
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " second floor, Shrinivas Arcade, office n, o. 2, opposite UCO Bank, Savarkar Chowk, Samarth Nagar, Chhatrapati Sambhaji Nagar, Maharashtra 431001",
+    "area": "Chhatrapati Sambhaji Nagar",
+    "city": " Aurangabad",
+    "rating": 4.1,
+    "category": "franchise_clinic",
+    "latitude": 19.8782056,
+    "longitude": 75.32190469999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor, Shree Jagannath Tower, No. 430-A, Piprali Rd, Jat Colony, Sikar, Rajasthan 332001",
+    "area": "Jat Colony",
+    "city": " Sikar",
+    "rating": 4.8,
+    "category": "franchise_clinic",
+    "latitude": 27.6241191,
+    "longitude": 75.1657814
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st flr, Main Rd, opposite Chandra Trends, Bihar Colony, Chas, Bokaro Steel City, Jharkhand 827013",
+    "area": "Chas",
+    "city": "Bokaro",
+    "rating": 4.8,
+    "category": "franchise_clinic",
+    "latitude": 23.6339793,
+    "longitude": 86.1785498
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Ground Flr, Chowdhury Complex, Panposh Rd, near Shalimar Hotel, Raghunathpali, Sundergarh, Rourkela, Odisha 769004",
+    "area": "Sundergarh",
+    "city": "Rourkela,",
+    "rating": 4.3,
+    "category": "franchise_clinic",
+    "latitude": 22.2268554,
+    "longitude": 84.842562
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Flr, Adyawati Tower, Kachahri Chowk, No. 103, Police Line Rd, beside Hotel Nihar, Bhikhanpur, Bhagalpur, Bihar 812001",
+    "area": "Bhikhanpur",
+    "city": " Bhagalpur",
+    "rating": 4.7,
+    "category": "franchise_clinic",
+    "latitude": 25.2506906,
+    "longitude": 86.9897833
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No. 13/14, Urban Co-Operative Bank, Highway, opposite Classic Plaza, near Mehsana, Manglaytan Society, Mehsana, Gujarat 384002",
+    "area": "Manglaytan Society",
+    "city": " Mehsana",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 23.5943418,
+    "longitude": 72.35888059999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1/4, 9th Division, No. 482, 4th Main Rd, near Ram & Co Circle, 5th Ward, Prince Jayachamaraja Wodeyar, Davanagere, Karnataka 577002",
+    "area": "Prince Jayachamaraja Wodeyar",
+    "city": " Davanagere",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 14.4614452,
+    "longitude": 75.91687979999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "181/6, Ring Rd, near DTDC Courier, Awas Vikas, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Jagatpura",
+    "city": "Rudrapur",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 28.9861638,
+    "longitude": 79.40335329999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "No 101, Shivani Heights, Police Headquarters Rd, near Raut Sweet Shop, Malhar Peth, Satara, Maharashtra 415001",
+    "area": "Malhar Peth",
+    "city": " Satara",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 17.6867323,
+    "longitude": 73.99721389999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "1st Floor CMD Chowk, Link Rd, opposite Jain Plaza, Bilaspur, Chhattisgarh 495001",
+    "area": "Link Rd",
+    "city": "Bilaspur",
+    "rating": 4.2,
+    "category": "franchise_clinic",
+    "latitude": 22.0718225,
+    "longitude": 82.1589376
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No 103, 1st Floor, Rishabh Corner, Plot No 93, Rabindranath Tagore Rd, Sector 8, Gandhidham, Gujarat 370201",
+    "area": "Rabindranath Tagore Rd",
+    "city": " Gandhidham",
+    "rating": 4.3,
+    "category": "franchise_clinic",
+    "latitude": 23.0644817,
+    "longitude": 70.13309579999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "301, Haridwar Rd, above Axis ATM, near Suresh chand Jain house, Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "city": " Roorkee",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 29.8725774,
+    "longitude": 77.8931473
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Gate no 3, Gorakhpur Road, near District Hospital, Murlijot, Manhandeeh, Basti, Uttar Pradesh 272002",
+    "area": "Manhandeeh",
+    "city": " Basti",
+    "rating": 5,
+    "category": "franchise_clinic",
+    "latitude": 26.7991857,
+    "longitude": 82.7684226
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "2nd Floor, AKS Towers Mini Bypass Road, Puthiyara Rd, opposite to TVS Showroom, Kozhikode, Kerala 673004",
+    "area": "Puthiyara Rd",
+    "city": "Kozhikode",
+    "rating": 4.5,
+    "category": "franchise_clinic",
+    "latitude": 11.255375,
+    "longitude": 75.7920218
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "No. 319, Aitroma Centrum Building, Sakuntala Rd, Madhyapara, Dhaleswar, Agartala, Tripura 799001",
+    "area": "Dhaleswar",
+    "city": " Agartala",
+    "rating": 4.6,
+    "category": "franchise_clinic",
+    "latitude": 23.8307855,
+    "longitude": 91.2807571
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "No. 106, Panaroma, Rameshwaram Building, Kali Mandir Marg, near Tanishq show room, Line Bazar, Purnia, Bihar 854301",
+    "area": "ff",
+    "city": " Purnia",
+    "rating": 4.7,
+    "category": "franchise_clinic",
+    "latitude": 25.7828037,
+    "longitude": 87.4880473
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "No 19, Basement, Panchsati Circle, Sardul Ganj, Bikaner, Rajasthan 334003",
+    "area": "Sardul Ganj",
+    "city": "Bikaner",
+    "rating": 4.8,
+    "category": "franchise_clinic",
+    "latitude": 28.0146047,
+    "longitude": 73.33432739999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Third Floor, A.K Asian Grand, Station Rd, opp. KEB office, near V2 Prime mall, Shambhognlli, Kalaburagi, Karnataka 585102",
+    "area": "Gulbarga",
+    "city": "Kalaburagi",
+    "rating": 5,
+    "category": "franchise_clinic",
+    "latitude": 17.3229775,
+    "longitude": 76.83116140000001
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "ParvathiNagar Main Rd, opposite Durgamma Temple, KHB Colony, Bhagath Singh Nagar, Ballari, Karnataka 583103",
+    "area": "Bhagath Singh Nagar",
+    "city": " Ballari",
+    "rating": 4.6,
+    "category": "franchise_clinic",
+    "latitude": 15.1527752,
+    "longitude": 76.9285124
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "Shop No 89,90, NSCB arcade, Infront of Smart Bazar, Jail Rd, Telanga Bazar, Cuttack, Odisha 753001",
+    "area": "Telanga Bazar",
+    "city": "Cuttack",
+    "rating": 4.6,
+    "category": "franchise_clinic",
+    "latitude": 20.4682906,
+    "longitude": 85.8689729
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " Above Firstcry.Com Near gate 2 Hanuman Temple, Wright Town, Circle, Ranital, Jabalpur, Madhya Pradesh 482002",
+    "area": "Wright Town",
+    "city": "Jabalpur",
+    "rating": 4.7,
+    "category": "franchise_clinic",
+    "latitude": 23.1696404,
+    "longitude": 79.9196403
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " 1st Flr, Anand Plaza, Burnpur Rd, near Dolly Lodge, Rabindra Nagar, Asansol, West Bengal 713304",
+    "area": "Rabindra Nagar",
+    "city": "Asansol",
+    "rating": 4.4,
+    "category": "franchise_clinic",
+    "latitude": 23.6879173,
+    "longitude": 86.9436872
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "3rd A Rd, opposite Inder Mart, behind Inder Inn Hotel, Sardarpura, Jodhpur, Rajasthan 342003",
+    "area": "Sardarpura",
+    "city": " Jodhpur",
+    "rating": 4.3,
+    "category": "franchise_clinic",
+    "latitude": 26.2811619,
+    "longitude": 73.0075229
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": " 2nd Floor, opposite Koyili Hospital, Chettipedika, Kannur, Kerala 670002",
+    "area": "Chettipedika",
+    "city": " Kannur",
+    "rating": 4.8,
+    "category": "franchise_clinic",
+    "latitude": 11.8869796,
+    "longitude": 75.37132249999999
+  },
+  {
+    "title": "Dr Batra's  Hair Clinic",
+    "address": "No 15, Dakshata Nagar Complex, Sindhi Camp Square, opp. Khadan Police Station, Sindhi Colony, Akola, Maharashtra 444001",
+    "area": "Sindhi Colony",
+    "city": " Akola",
+    "rating": 4.3,
+    "category": "franchise_clinic",
+    "latitude": 20.6976212,
+    "longitude": 77.0042407
+  }
+]
